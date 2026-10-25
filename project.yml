@@ -1,0 +1,137 @@
+name: IDHolder
+options:
+  deploymentTarget:
+    iOS: '27.0'
+    macOS: '27.0'
+configs:
+  Debug: debug
+  Release: release
+  Personal: release
+packages:
+  IDCore:
+    path: Packages/IDCore
+settings:
+  base:
+    SWIFT_VERSION: '6.0'
+    MARKETING_VERSION: '1.0'
+    CURRENT_PROJECT_VERSION: '7'
+    # No App Intents are implemented, so there is no metadata to extract.
+    LM_SKIP_METADATA_EXTRACTION: YES
+    DEVELOPMENT_TEAM: 7D3WWB7VH9
+    CODE_SIGN_STYLE: Automatic
+    GENERATE_INFOPLIST_FILE: YES
+    PRODUCT_BUNDLE_IDENTIFIER: com.gagan.IDHolder
+  configs:
+    Debug:
+      SWIFT_ACTIVE_COMPILATION_CONDITIONS: $(inherited) DEBUG PERSONAL_ART
+    Release:
+      EXCLUDED_SOURCE_FILE_NAMES: PersonalArt.xcassets
+    Personal:
+      SWIFT_ACTIVE_COMPILATION_CONDITIONS: $(inherited) PERSONAL_ART
+schemes:
+  IDHolder-iOS-Personal:
+    build:
+      targets:
+        IDHolder-iOS: all
+    run:
+      config: Personal
+    archive:
+      config: Personal
+  IDHolder-macOS-Personal:
+    build:
+      targets:
+        IDHolder-macOS: all
+    run:
+      config: Personal
+    archive:
+      config: Personal
+targets:
+  IDHolder-iOS:
+    type: application
+    platform: iOS
+    sources: [App/Shared, App/iOS]
+    dependencies:
+      - package: IDCore
+    settings:
+      base:
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        TARGETED_DEVICE_FAMILY: '1'
+        INFOPLIST_KEY_CFBundleDisplayName: Identité
+        INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.productivity
+        INFOPLIST_KEY_ITSAppUsesNonExemptEncryption: NO
+        PRODUCT_BUNDLE_IDENTIFIER: com.gagan.IDHolder
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_NSFaceIDUsageDescription: 'Unlock your saved IDs.'
+        INFOPLIST_KEY_NSCameraUsageDescription: 'Scan an ID card to fill in its details. Photos are never saved.'
+    info:
+      path: App/iOS/Info.plist
+      properties:
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        UIBackgroundModes: [remote-notification]
+    entitlements:
+      path: App/iOS/IDHolder.entitlements
+      properties:
+        aps-environment: development
+        com.apple.developer.icloud-container-identifiers: [iCloud.com.gagan.IDHolder]
+        com.apple.developer.icloud-services: [CloudKit]
+    scheme:
+      testTargets: [IDHolder-iOS-Tests, IDHolder-iOS-UITests]
+  IDHolder-macOS:
+    type: application
+    platform: macOS
+    sources: [App/Shared, App/macOS]
+    dependencies:
+      - package: IDCore
+    settings:
+      base:
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        # the app menu and Finder read the product name, so it carries the accent; the module and executable keep ASCII names (codesign rejects the accented binary)
+        PRODUCT_NAME: Identité
+        PRODUCT_MODULE_NAME: Identite
+        EXECUTABLE_NAME: Identite
+        INFOPLIST_KEY_CFBundleDisplayName: Identité
+        INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.productivity
+        INFOPLIST_KEY_ITSAppUsesNonExemptEncryption: NO
+    entitlements:
+      path: App/macOS/IDHolder.entitlements
+      properties:
+        com.apple.security.app-sandbox: true
+        com.apple.security.network.client: true
+        com.apple.developer.aps-environment: development
+        com.apple.developer.icloud-container-identifiers: [iCloud.com.gagan.IDHolder]
+        com.apple.developer.icloud-services: [CloudKit]
+    scheme:
+      testTargets: [IDHolder-macOS-Tests]
+  IDHolder-iOS-UITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources: [UITests/iOS]
+    dependencies:
+      - target: IDHolder-iOS
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.gagan.IDHolder.UITests
+        TARGETED_DEVICE_FAMILY: '1'
+  IDHolder-iOS-Tests:
+    type: bundle.unit-test
+    platform: iOS
+    sources: [Tests/iOS, App/Shared/SensitiveTextField.swift, App/iOS/PrivacyCover.swift, App/iOS/DocumentScanner.swift, App/iOS/TextRecognizer.swift, App/Shared/LockView.swift, App/Shared/LocalAuthenticator.swift, App/Shared/Cards/CardStyle.swift]
+    dependencies:
+      - package: IDCore
+      - target: IDHolder-iOS
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.gagan.IDHolder.iOSTests
+        GENERATE_INFOPLIST_FILE: YES
+  IDHolder-macOS-Tests:
+    type: bundle.unit-test
+    platform: macOS
+    sources: [Tests/macOS, App/macOS/MacSessionEvents.swift, App/Shared/Cards, App/Shared/CardCustomizeView.swift, App/Shared/RecordEditorView.swift, App/Shared/SensitiveTextField.swift, App/Shared/LocalAuthenticator.swift, App/Shared/Motion.swift, App/Shared/SettingsView.swift, App/Shared/ReminderScheduler.swift, App/Shared/PeopleView.swift, App/Shared/Assets.xcassets, App/Shared/PersonalArt.xcassets]
+    dependencies:
+      - package: IDCore
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.gagan.IDHolder.MacTests
+        GENERATE_INFOPLIST_FILE: YES

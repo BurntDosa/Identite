@@ -1,0 +1,134 @@
+[
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.3.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.4.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 1,
+    "id" : "cardy.5.gradients",
+    "sourceMaxChroma" : 150,
+    "treatment" : "three tintable luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.6.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.7.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.8.paste-your-3d-object-here",
+    "sourceMaxChroma" : 0,
+    "treatment" : "chrome tone map: deep primary \/ primary \/ light primary; full-range luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.8.3d-object",
+    "sourceMaxChroma" : 0,
+    "treatment" : "chrome tone map: deep primary \/ primary \/ light primary; full-range luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.10.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.12.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 1,
+    "id" : "cardy.13.gradient",
+    "sourceMaxChroma" : 251,
+    "treatment" : "three tintable luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.13.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.16.pattern",
+    "sourceMaxChroma" : 0,
+    "treatment" : "three tintable luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0.13275472873044292,
+    "id" : "cardy.17.pattern",
+    "sourceMaxChroma" : 25,
+    "treatment" : "three tintable luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.23.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 1,
+    "id" : "cardy.24.pattern",
+    "sourceMaxChroma" : 108,
+    "treatment" : "three tintable luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.24.back",
+    "sourceMaxChroma" : 0,
+    "treatment" : "three tintable luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.25.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 1,
+    "id" : "cardy.27.gradient",
+    "sourceMaxChroma" : 135,
+    "treatment" : "three tintable luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.27.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.28.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  },
+  {
+    "coloredPixelFraction" : 0.9997849174082848,
+    "id" : "cardy.30.card",
+    "sourceMaxChroma" : 167,
+    "treatment" : "three tintable luminance masks"
+  },
+  {
+    "coloredPixelFraction" : 0,
+    "id" : "cardy.30.noise",
+    "sourceMaxChroma" : 0,
+    "treatment" : "neutral luminance PNG"
+  }
+]

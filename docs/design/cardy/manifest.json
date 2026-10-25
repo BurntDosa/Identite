@@ -1,0 +1,6059 @@
+[
+  {
+    "variant": "1",
+    "figmaId": "831:1272",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.1.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1272",
+        "category": "base",
+        "file": "parts/1/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.1.paste-your-pattern-here",
+        "name": "\u270f\ufe0f  Paste your Pattern here",
+        "figmaId": "604:7520",
+        "category": "pattern",
+        "file": "parts/1/paste-your-pattern-here.svg",
+        "kind": "vector",
+        "fills": [
+          "#181818",
+          "#C2C2C2"
+        ],
+        "roleMap": {
+          "#181818": "background",
+          "#C2C2C2": "primary"
+        },
+        "bounds": [
+          0.49839228,
+          0.0,
+          0.50160772,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "categoryFallback": true,
+        "fillArea": {
+          "#181818": 17867.0314,
+          "#C2C2C2": 13322.2706
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "f05ec288899a92a7b71734693f1015c66e05e6d9a58e9db7fcdb7ae237ca4127"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:5791",
+      "layers": [
+        {
+          "id": "cardy.1.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1272",
+          "category": "base",
+          "file": "parts/1/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.1.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:5792",
+          "kind": "group",
+          "bounds": [
+            0.4983922829581994,
+            0.0,
+            0.5016077170418006,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.1.paste-your-pattern-here",
+              "name": "\u270f\ufe0f  Paste your Pattern here",
+              "figmaId": "604:7520",
+              "category": "pattern",
+              "file": "parts/1/paste-your-pattern-here.svg",
+              "kind": "vector",
+              "fills": [
+                "#181818",
+                "#C2C2C2"
+              ],
+              "roleMap": {
+                "#181818": "background",
+                "#C2C2C2": "primary"
+              },
+              "bounds": [
+                0.49839228,
+                0.0,
+                0.50160772,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "categoryFallback": true,
+              "fillArea": {
+                "#181818": 17867.0314,
+                "#C2C2C2": 13322.2706
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "f05ec288899a92a7b71734693f1015c66e05e6d9a58e9db7fcdb7ae237ca4127",
+              "sourceFigmaId": "1604:5793",
+              "sourceName": "\u270f\ufe0f  Paste your Pattern here"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "2",
+    "figmaId": "831:1260",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.2.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1260",
+        "category": "base",
+        "file": "parts/2/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.2.gradients",
+        "name": "Gradients",
+        "figmaId": "604:6594",
+        "category": "pattern",
+        "file": "parts/2/gradients.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          -0.38585209,
+          -0.8,
+          1.84244196,
+          2.15351288
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "categoryFallback": true,
+        "sha256": "b70a0d67f5e2679597c66e88fb0594f7b90d9038741f64349606bcfafde15ad1",
+        "reviewRender": {
+          "file": "review/parts/2-gradients.svg",
+          "kind": "vector",
+          "bounds": [
+            -0.38585209,
+            -0.8,
+            1.84244196,
+            2.15351288
+          ],
+          "fills": [
+            "#3763A4",
+            "#770A3C",
+            "#9C5868",
+            "#B91532"
+          ],
+          "roleMap": {
+            "#3763A4": "accent",
+            "#770A3C": "background",
+            "#9C5868": "secondary",
+            "#B91532": "primary"
+          },
+          "sha256": "4144a0b8cea12f4d3c6aa21437e21e187da298ab145dc7eff48ab21d2bd476ce",
+          "source": "Revision 1 palette-role redraw; original export retained"
+        }
+      }
+    ],
+    "design": {
+      "figmaId": "1604:5778",
+      "layers": [
+        {
+          "id": "cardy.2.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1260",
+          "category": "base",
+          "file": "parts/2/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.2.gradients",
+          "name": "Gradients",
+          "figmaId": "604:6594",
+          "category": "pattern",
+          "file": "parts/2/gradients.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            -0.38585209,
+            -0.8,
+            1.84244196,
+            2.15351288
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "categoryFallback": true,
+          "sha256": "b70a0d67f5e2679597c66e88fb0594f7b90d9038741f64349606bcfafde15ad1",
+          "sourceFigmaId": "1604:5779",
+          "sourceName": "Gradients"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "3",
+    "figmaId": "831:1249",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.3.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1249",
+        "category": "base",
+        "file": "parts/3/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#FCCF49"
+        ],
+        "roleMap": {
+          "#FCCF49": "background"
+        },
+        "fillArea": {
+          "#FCCF49": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "819d3b4a2b55b552a6f44e06502b1ad2a30cb7e18209aeb3b7e575ce10e87996"
+      },
+      {
+        "id": "cardy.3.shape",
+        "name": "Shape",
+        "figmaId": "604:6564",
+        "category": "shape",
+        "file": "parts/3/shape.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.2829582,
+          0.02500003,
+          0.91445926,
+          1.40796318
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 0.5,
+        "fillArea": {
+          "#FFFFFF": 5317.6941
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "44b7e38f5a791269cb7d9f632d97ec86f7a8941307ee56e4319c9d194a131d66"
+      },
+      {
+        "id": "cardy.3.noise",
+        "name": "Noise",
+        "figmaId": "604:6580",
+        "category": "texture",
+        "file": "parts/3/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          -0.00038035,
+          1.0001573,
+          1.00038035
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 0.30000001192092896,
+        "sha256": "d512063e4be5406480b229cfca84af1866dbd5361211a1f6a38b89338a17a10e"
+      },
+      {
+        "id": "cardy.3.overlay",
+        "name": "Overlay",
+        "figmaId": "604:6590",
+        "category": "overlay",
+        "file": "parts/3/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "bounds": [
+          0.7170418,
+          0.0,
+          0.2829582,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#111111": 17600.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "b2db5fe1765d9782a97d82211ae118ae2bdddb6223a2b3b475c2d8c15fc31061",
+        "layout": "v67",
+        "selectable": false
+      }
+    ],
+    "design": {
+      "figmaId": "1604:5751",
+      "layers": [
+        {
+          "id": "cardy.3.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1249",
+          "category": "base",
+          "file": "parts/3/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#FCCF49"
+          ],
+          "roleMap": {
+            "#FCCF49": "background"
+          },
+          "fillArea": {
+            "#FCCF49": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "819d3b4a2b55b552a6f44e06502b1ad2a30cb7e18209aeb3b7e575ce10e87996",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.3.shape",
+          "name": "Shape",
+          "figmaId": "604:6564",
+          "category": "shape",
+          "file": "parts/3/shape.svg",
+          "kind": "vector",
+          "fills": [
+            "#FFFFFF"
+          ],
+          "roleMap": {
+            "#FFFFFF": "background"
+          },
+          "bounds": [
+            0.2829582,
+            0.02500003,
+            0.91445926,
+            1.40796318
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 0.5,
+          "fillArea": {
+            "#FFFFFF": 5317.6941
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "44b7e38f5a791269cb7d9f632d97ec86f7a8941307ee56e4319c9d194a131d66",
+          "sourceFigmaId": "1604:5752",
+          "sourceName": "Shape"
+        },
+        {
+          "id": "cardy.3.noise",
+          "name": "Noise",
+          "figmaId": "604:6580",
+          "category": "texture",
+          "file": "parts/3/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            -0.00038035,
+            1.0001573,
+            1.00038035
+          ],
+          "visible": true,
+          "blendMode": "OVERLAY",
+          "opacity": 0.30000001192092896,
+          "sha256": "d512063e4be5406480b229cfca84af1866dbd5361211a1f6a38b89338a17a10e",
+          "sourceFigmaId": "1604:5768",
+          "sourceName": "Noise"
+        },
+        {
+          "id": "cardy.3.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:5769",
+          "kind": "group",
+          "bounds": [
+            0.7170418006430869,
+            0.0,
+            0.2829581993569132,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.3.overlay",
+              "name": "Overlay",
+              "figmaId": "604:6590",
+              "category": "overlay",
+              "file": "parts/3/overlay.svg",
+              "kind": "vector",
+              "fills": [
+                "#111111"
+              ],
+              "roleMap": {
+                "#111111": "background"
+              },
+              "bounds": [
+                0.7170418,
+                0.0,
+                0.2829582,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#111111": 17600.0
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "b2db5fe1765d9782a97d82211ae118ae2bdddb6223a2b3b475c2d8c15fc31061",
+              "layout": "v67",
+              "selectable": false,
+              "sourceFigmaId": "1604:5770",
+              "sourceName": "Overlay"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "4",
+    "figmaId": "831:1250",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.4.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1250",
+        "category": "base",
+        "file": "parts/4/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.4.background",
+        "name": "Background",
+        "figmaId": "604:4268",
+        "category": "base",
+        "file": "parts/4/background.svg",
+        "kind": "vector",
+        "fills": [
+          "#202530"
+        ],
+        "roleMap": {
+          "#202530": "background"
+        },
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#202530": 62200.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "c182df30b58f5d89beaee6b59f48cc3d26d8496f5508c41572d54d3fc06a3713"
+      },
+      {
+        "id": "cardy.4.paste-your-pattern-here",
+        "name": "\u270f\ufe0f  Paste your Pattern here",
+        "figmaId": "604:4270",
+        "category": "pattern",
+        "file": "parts/4/paste-your-pattern-here.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.63665595,
+          0.0,
+          0.36334405,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "categoryFallback": true,
+        "fillArea": {
+          "#FFFFFF": 7340.8
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "48d7723e3f96914ed4517014f21f30185b5906658e2ebaf4508f8d263d4f225b"
+      },
+      {
+        "id": "cardy.4.noise",
+        "name": "Noise",
+        "figmaId": "801:1297",
+        "category": "texture",
+        "file": "parts/4/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 1,
+        "sha256": "14fac34ed1df950563ad881a41cc1400523bb010aef3a118bc3d90915f9330a3"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:4732",
+      "layers": [
+        {
+          "id": "cardy.4.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1250",
+          "category": "base",
+          "file": "parts/4/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.4.background",
+          "name": "Background",
+          "figmaId": "604:4268",
+          "category": "base",
+          "file": "parts/4/background.svg",
+          "kind": "vector",
+          "fills": [
+            "#202530"
+          ],
+          "roleMap": {
+            "#202530": "background"
+          },
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#202530": 62200.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "c182df30b58f5d89beaee6b59f48cc3d26d8496f5508c41572d54d3fc06a3713",
+          "sourceFigmaId": "1604:4733",
+          "sourceName": "Background",
+          "roleOverrides": {
+            "#202530": "background"
+          }
+        },
+        {
+          "id": "cardy.4.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:4735",
+          "kind": "group",
+          "bounds": [
+            0.6366559485530546,
+            0.0,
+            0.3633440514469453,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.4.paste-your-pattern-here",
+              "name": "\u270f\ufe0f  Paste your Pattern here",
+              "figmaId": "604:4270",
+              "category": "pattern",
+              "file": "parts/4/paste-your-pattern-here.svg",
+              "kind": "vector",
+              "fills": [
+                "#FFFFFF"
+              ],
+              "roleMap": {
+                "#FFFFFF": "background"
+              },
+              "bounds": [
+                0.63665595,
+                0.0,
+                0.36334405,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "categoryFallback": true,
+              "fillArea": {
+                "#FFFFFF": 7340.8
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "48d7723e3f96914ed4517014f21f30185b5906658e2ebaf4508f8d263d4f225b",
+              "sourceFigmaId": "1604:4736",
+              "sourceName": "\u270f\ufe0f  Paste your Pattern here"
+            }
+          ]
+        },
+        {
+          "id": "cardy.4.noise",
+          "name": "Noise",
+          "figmaId": "801:1297",
+          "category": "texture",
+          "file": "parts/4/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "OVERLAY",
+          "opacity": 1,
+          "sha256": "14fac34ed1df950563ad881a41cc1400523bb010aef3a118bc3d90915f9330a3",
+          "sourceFigmaId": "1604:5746",
+          "sourceName": "Noise"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "5",
+    "figmaId": "831:1262",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.5.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1262",
+        "category": "base",
+        "file": "parts/5/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.5.gradients",
+        "name": "Gradients",
+        "figmaId": "604:6607",
+        "category": "pattern",
+        "file": "parts/5/gradients.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          -0.31832709,
+          -1.33,
+          2.08668405,
+          2.40979843
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "categoryFallback": true,
+        "sha256": "4242afa3d811d27f649f30334f6a3093e5610f88b2910c6a53f79e8f495f3d5c"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:4720",
+      "layers": [
+        {
+          "id": "cardy.5.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1262",
+          "category": "base",
+          "file": "parts/5/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.5.gradients",
+          "name": "Gradients",
+          "figmaId": "604:6607",
+          "category": "pattern",
+          "file": "parts/5/gradients.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            -0.31832709,
+            -1.33,
+            2.08668405,
+            2.40979843
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "categoryFallback": true,
+          "sha256": "4242afa3d811d27f649f30334f6a3093e5610f88b2910c6a53f79e8f495f3d5c",
+          "sourceFigmaId": "1604:4721",
+          "sourceName": "Gradients"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "6",
+    "figmaId": "831:1251",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.6.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1251",
+        "category": "base",
+        "file": "parts/6/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.6.noise",
+        "name": "Noise",
+        "figmaId": "800:1447",
+        "category": "texture",
+        "file": "parts/6/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 1,
+        "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26"
+      },
+      {
+        "id": "cardy.6.overlay",
+        "name": "Overlay",
+        "figmaId": "604:5289",
+        "category": "overlay",
+        "file": "parts/6/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          0.56
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "isMask": true,
+        "fillArea": {
+          "#FFFFFF": 34832.0
+        },
+        "areaMethod": "exact rectangular mask area",
+        "source": "REST mask geometry (isolated mask export returns null)",
+        "sha256": "14e6f24c8dbff96b468126b873c653d5d606c765b383b944187c1bc208c4c486",
+        "layout": "h50",
+        "selectable": false
+      },
+      {
+        "id": "cardy.6.overlay-bg",
+        "name": "Overlay bg",
+        "figmaId": "604:5290",
+        "category": "pattern",
+        "file": "parts/6/overlay-bg.svg",
+        "kind": "vector",
+        "fills": [
+          "#323CAD"
+        ],
+        "roleMap": {
+          "#323CAD": "background"
+        },
+        "bounds": [
+          0.0,
+          0.0,
+          1.4999998,
+          0.72
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "categoryFallback": true,
+        "fillArea": {
+          "#323CAD": 67176.2824
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "8601f3f8d38e67bd6cf90d413ee69354d8096524639b82de111e99bd72475491"
+      },
+      {
+        "id": "cardy.6.pattern",
+        "name": "Pattern",
+        "figmaId": "604:5291",
+        "category": "pattern",
+        "file": "parts/6/pattern.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          0.56
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "sha256": "d0c951cf06c166b85bd74a0544556fd74a3c3f402089e91a1832aa36a9a64f6a",
+        "reviewRender": {
+          "file": "review/parts/6-pattern.svg",
+          "kind": "vector",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            0.56
+          ],
+          "fills": [
+            "#B91532"
+          ],
+          "roleMap": {
+            "#B91532": "primary"
+          },
+          "sha256": "f8f25c6619829cc8863550979005f71834cfe756988aca38d0b93790cab1f53a",
+          "source": "Revision 1 palette-role redraw; original export retained"
+        }
+      }
+    ],
+    "design": {
+      "figmaId": "1604:4704",
+      "layers": [
+        {
+          "id": "cardy.6.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1251",
+          "category": "base",
+          "file": "parts/6/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.6.noise",
+          "name": "Noise",
+          "figmaId": "800:1447",
+          "category": "texture",
+          "file": "parts/6/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "OVERLAY",
+          "opacity": 1,
+          "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26",
+          "sourceFigmaId": "1604:4705",
+          "sourceName": "Noise"
+        },
+        {
+          "id": "cardy.6.top-side",
+          "name": "Top side",
+          "sourceFigmaId": "1604:4712",
+          "kind": "group",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            0.56
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.6.overlay-bg",
+              "name": "Overlay bg",
+              "figmaId": "604:5290",
+              "category": "pattern",
+              "file": "parts/6/overlay-bg.svg",
+              "kind": "vector",
+              "fills": [
+                "#323CAD"
+              ],
+              "roleMap": {
+                "#323CAD": "background"
+              },
+              "bounds": [
+                0.0,
+                0.0,
+                1.4999998,
+                0.72
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "categoryFallback": true,
+              "fillArea": {
+                "#323CAD": 67176.2824
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "8601f3f8d38e67bd6cf90d413ee69354d8096524639b82de111e99bd72475491",
+              "sourceFigmaId": "1604:4714",
+              "sourceName": "Overlay bg",
+              "clipBounds": [
+                0,
+                0,
+                1,
+                0.56
+              ]
+            },
+            {
+              "id": "cardy.6.pattern",
+              "name": "Pattern",
+              "figmaId": "604:5291",
+              "category": "pattern",
+              "file": "parts/6/pattern.png",
+              "kind": "image",
+              "fills": [],
+              "roleMap": {},
+              "bounds": [
+                0.0,
+                0.0,
+                1.0,
+                0.56
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "sha256": "d0c951cf06c166b85bd74a0544556fd74a3c3f402089e91a1832aa36a9a64f6a",
+              "sourceFigmaId": "1604:4715",
+              "sourceName": "Pattern",
+              "clipBounds": [
+                0,
+                0,
+                1,
+                0.56
+              ]
+            }
+          ]
+        }
+      ],
+      "excludedPlaceholders": [
+        {
+          "figmaId": "1604:4718",
+          "name": "wave",
+          "bounds": [
+            0.08038585209003216,
+            0.12,
+            0.15434083601286175,
+            0.15
+          ]
+        },
+        {
+          "figmaId": "1604:4719",
+          "name": "Piqo",
+          "bounds": [
+            0.7170418006430869,
+            0.12,
+            0.2057877813504823,
+            0.2
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "7",
+    "figmaId": "831:1252",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.7.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1252",
+        "category": "base",
+        "file": "parts/7/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#000000"
+        ],
+        "roleMap": {
+          "#000000": "background"
+        },
+        "fillArea": {
+          "#000000": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "af4822f9ea0b1ed25527cbc9fe344c77f007fb4b4f852754a8c28c868891c1ee"
+      },
+      {
+        "id": "cardy.7.gradients",
+        "name": "Gradients",
+        "figmaId": "604:6549",
+        "category": "pattern",
+        "file": "parts/7/gradients.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          -0.00048985,
+          -0.00071091,
+          1.00063716,
+          0.99109207
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "categoryFallback": true,
+        "tint": "blend",
+        "sha256": "8235e27fdc3509a36580b38cd095bbb45e9d03b52d17dfda893ad3e56a39d5d1",
+        "reviewRender": {
+          "file": "review/parts/7-gradients.svg",
+          "kind": "vector",
+          "bounds": [
+            -0.00048985,
+            -0.00071091,
+            1.00063716,
+            0.99109207
+          ],
+          "fills": [
+            "#3763A4",
+            "#770A3C",
+            "#9C5868",
+            "#B91532"
+          ],
+          "roleMap": {
+            "#3763A4": "accent",
+            "#770A3C": "background",
+            "#9C5868": "secondary",
+            "#B91532": "primary"
+          },
+          "sha256": "66ddfb3631091c5b05ae100493d658ae0234db067bc0e6425b5647ede04c4181",
+          "source": "Revision 1 palette-role redraw; original export retained"
+        }
+      },
+      {
+        "id": "cardy.7.noise",
+        "name": "Noise",
+        "figmaId": "800:1448",
+        "category": "texture",
+        "file": "parts/7/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          -0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 1,
+        "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26"
+      },
+      {
+        "id": "cardy.7.overlay",
+        "name": "Overlay",
+        "figmaId": "604:6553",
+        "category": "overlay",
+        "file": "parts/7/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#202530"
+        ],
+        "roleMap": {
+          "#202530": "background"
+        },
+        "bounds": [
+          0.0,
+          0.7,
+          1.0,
+          0.3
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#202530": 18660.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "064436623ed5c48ff9c664305fc2598906cc6a5e981c327306aa90caf9894f1e",
+        "layout": "h67",
+        "selectable": false
+      }
+    ],
+    "design": {
+      "figmaId": "1604:4690",
+      "layers": [
+        {
+          "id": "cardy.7.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1252",
+          "category": "base",
+          "file": "parts/7/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#000000"
+          ],
+          "roleMap": {
+            "#000000": "background"
+          },
+          "fillArea": {
+            "#000000": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "af4822f9ea0b1ed25527cbc9fe344c77f007fb4b4f852754a8c28c868891c1ee",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.7.gradients",
+          "name": "Gradients",
+          "figmaId": "604:6549",
+          "category": "pattern",
+          "file": "parts/7/gradients.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            -0.00048985,
+            -0.00071091,
+            1.00063716,
+            0.99109207
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "categoryFallback": true,
+          "tint": "blend",
+          "sha256": "8235e27fdc3509a36580b38cd095bbb45e9d03b52d17dfda893ad3e56a39d5d1",
+          "sourceFigmaId": "1604:4691",
+          "sourceName": "Gradients"
+        },
+        {
+          "id": "cardy.7.noise",
+          "name": "Noise",
+          "figmaId": "800:1448",
+          "category": "texture",
+          "file": "parts/7/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            -0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "OVERLAY",
+          "opacity": 1,
+          "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26",
+          "sourceFigmaId": "1604:4694",
+          "sourceName": "Noise"
+        },
+        {
+          "id": "cardy.7.overlay",
+          "name": "Overlay",
+          "figmaId": "604:6553",
+          "category": "overlay",
+          "file": "parts/7/overlay.svg",
+          "kind": "vector",
+          "fills": [
+            "#202530"
+          ],
+          "roleMap": {
+            "#202530": "background"
+          },
+          "bounds": [
+            0.0,
+            0.7,
+            1.0,
+            0.3
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#202530": 18660.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "064436623ed5c48ff9c664305fc2598906cc6a5e981c327306aa90caf9894f1e",
+          "layout": "h67",
+          "selectable": false,
+          "sourceFigmaId": "1604:4695",
+          "sourceName": "Overlay"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "8",
+    "figmaId": "831:1269",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.8.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1269",
+        "category": "base",
+        "file": "parts/8/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.8.paste-your-3d-object-here",
+        "name": "\u270f\ufe0f  Paste your 3D Object here",
+        "figmaId": "604:5696",
+        "category": "pattern",
+        "file": "parts/8/paste-your-3d-object-here.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          -2.90353698,
+          -2.46,
+          3.90353698,
+          3.46
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "categoryFallback": true,
+        "sha256": "dd509160dc2fb731fde0799a35576674d47ec35c8402f9620c0683639a84fea3"
+      },
+      {
+        "id": "cardy.8.overlay",
+        "name": "Overlay",
+        "figmaId": "604:5701",
+        "category": "overlay",
+        "file": "parts/8/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "bounds": [
+          0.0,
+          0.7,
+          1.0,
+          0.3
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#111111": 18660.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "232d02a3be0563847ed42c1054410397bc527d8d8c2d43144a5f46c15cb7676c",
+        "layout": "h67",
+        "selectable": false
+      },
+      {
+        "id": "cardy.8.3d-object",
+        "name": "3D Object",
+        "figmaId": "604:5698",
+        "category": "object3d",
+        "file": "parts/8/3d-object.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "alsoContainedIn": "cardy.8.paste-your-3d-object-here",
+        "sha256": "d478d9f9eb20a41722083377769644e1d02d441cf01bf5e683eb3791f5ce7631"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:4674",
+      "layers": [
+        {
+          "id": "cardy.8.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1269",
+          "category": "base",
+          "file": "parts/8/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.8.paste-your-3d-object-here",
+          "name": "\u270f\ufe0f  Paste your 3D Object here",
+          "figmaId": "604:5696",
+          "category": "pattern",
+          "file": "parts/8/paste-your-3d-object-here.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            -2.90353698,
+            -2.46,
+            3.90353698,
+            3.46
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "categoryFallback": true,
+          "sha256": "dd509160dc2fb731fde0799a35576674d47ec35c8402f9620c0683639a84fea3",
+          "sourceFigmaId": "1604:4675",
+          "sourceName": "\u270f\ufe0f  Paste your 3D Object here"
+        },
+        {
+          "id": "cardy.8.overlay",
+          "name": "Overlay",
+          "figmaId": "604:5701",
+          "category": "overlay",
+          "file": "parts/8/overlay.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "bounds": [
+            0.0,
+            0.7,
+            1.0,
+            0.3
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#111111": 18660.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "232d02a3be0563847ed42c1054410397bc527d8d8c2d43144a5f46c15cb7676c",
+          "layout": "h67",
+          "selectable": false,
+          "sourceFigmaId": "1604:4680",
+          "sourceName": "Overlay",
+          "backgroundBlur": 12
+        }
+      ]
+    }
+  },
+  {
+    "variant": "9",
+    "figmaId": "831:1265",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.9.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1265",
+        "category": "base",
+        "file": "parts/9/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#01646B"
+        ],
+        "roleMap": {
+          "#01646B": "background"
+        },
+        "fillArea": {
+          "#01646B": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "c64b58f96180e5db6813e031b9ae9eb0a79c0222d4eb94de7062b143c33e51f1"
+      },
+      {
+        "id": "cardy.9.overlay",
+        "name": "Overlay",
+        "figmaId": "604:5714",
+        "category": "overlay",
+        "file": "parts/9/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#FDD0BB"
+        ],
+        "roleMap": {
+          "#FDD0BB": "background"
+        },
+        "bounds": [
+          0.0,
+          0.68,
+          1.0,
+          0.32
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FDD0BB": 19904.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "41d7a838a18ab33ec6b22deae4da362d39e2bc2ed0a01709ef5fed3f4f92a8af",
+        "layout": "h67",
+        "selectable": false
+      },
+      {
+        "id": "cardy.9.shape",
+        "name": "Shape",
+        "figmaId": "604:5722",
+        "category": "shape",
+        "file": "parts/9/shape.svg",
+        "kind": "vector",
+        "fills": [
+          "#2B8A91"
+        ],
+        "roleMap": {
+          "#2B8A91": "background"
+        },
+        "bounds": [
+          0.55626913,
+          -0.55500005,
+          0.68104498,
+          1.21811337
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#2B8A91": 1204.5216
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "44f87420ac55641b110ce2c5f08c9cfb29df3af6c79485c145b012bdc9df4c75"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:4659",
+      "layers": [
+        {
+          "id": "cardy.9.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1265",
+          "category": "base",
+          "file": "parts/9/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#01646B"
+          ],
+          "roleMap": {
+            "#01646B": "background"
+          },
+          "fillArea": {
+            "#01646B": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "c64b58f96180e5db6813e031b9ae9eb0a79c0222d4eb94de7062b143c33e51f1",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.9.overlay",
+          "name": "Overlay",
+          "figmaId": "604:5714",
+          "category": "overlay",
+          "file": "parts/9/overlay.svg",
+          "kind": "vector",
+          "fills": [
+            "#FDD0BB"
+          ],
+          "roleMap": {
+            "#FDD0BB": "background"
+          },
+          "bounds": [
+            0.0,
+            0.68,
+            1.0,
+            0.32
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#FDD0BB": 19904.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "41d7a838a18ab33ec6b22deae4da362d39e2bc2ed0a01709ef5fed3f4f92a8af",
+          "layout": "h67",
+          "selectable": false,
+          "sourceFigmaId": "1604:4660",
+          "sourceName": "Overlay"
+        },
+        {
+          "id": "cardy.9.shape",
+          "name": "Shape",
+          "figmaId": "604:5722",
+          "category": "shape",
+          "file": "parts/9/shape.svg",
+          "kind": "vector",
+          "fills": [
+            "#2B8A91"
+          ],
+          "roleMap": {
+            "#2B8A91": "background"
+          },
+          "bounds": [
+            0.55626913,
+            -0.55500005,
+            0.68104498,
+            1.21811337
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#2B8A91": 1204.5216
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "44f87420ac55641b110ce2c5f08c9cfb29df3af6c79485c145b012bdc9df4c75",
+          "sourceFigmaId": "1604:4661",
+          "sourceName": "Shape"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "10",
+    "figmaId": "831:1253",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.10.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1253",
+        "category": "base",
+        "file": "parts/10/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#43BA7F"
+        ],
+        "roleMap": {
+          "#43BA7F": "background"
+        },
+        "fillArea": {
+          "#43BA7F": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1f7475e63121b007f2e53e4da0ca50f3f653e90c64a7ade843e7c929c84b8579"
+      },
+      {
+        "id": "cardy.10.pattern",
+        "name": "Pattern",
+        "figmaId": "604:6620",
+        "category": "pattern",
+        "file": "parts/10/pattern.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FFFFFF": 2457.2353
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "9c7432920de3e2dd8a2ec07bd94051a3a54dc725332ef8459091a77657e38f35"
+      },
+      {
+        "id": "cardy.10.noise",
+        "name": "Noise",
+        "figmaId": "800:1449",
+        "category": "texture",
+        "file": "parts/10/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 1,
+        "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:4644",
+      "layers": [
+        {
+          "id": "cardy.10.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1253",
+          "category": "base",
+          "file": "parts/10/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#43BA7F"
+          ],
+          "roleMap": {
+            "#43BA7F": "background"
+          },
+          "fillArea": {
+            "#43BA7F": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1f7475e63121b007f2e53e4da0ca50f3f653e90c64a7ade843e7c929c84b8579",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.10.pattern",
+          "name": "Pattern",
+          "figmaId": "604:6620",
+          "category": "pattern",
+          "file": "parts/10/pattern.svg",
+          "kind": "vector",
+          "fills": [
+            "#FFFFFF"
+          ],
+          "roleMap": {
+            "#FFFFFF": "background"
+          },
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#FFFFFF": 2457.2353
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "9c7432920de3e2dd8a2ec07bd94051a3a54dc725332ef8459091a77657e38f35",
+          "sourceFigmaId": "1604:4645",
+          "sourceName": "Pattern",
+          "roleOverrides": {
+            "#FFFFFF": "secondary"
+          }
+        },
+        {
+          "id": "cardy.10.noise",
+          "name": "Noise",
+          "figmaId": "800:1449",
+          "category": "texture",
+          "file": "parts/10/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "OVERLAY",
+          "opacity": 1,
+          "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26",
+          "sourceFigmaId": "1604:4646",
+          "sourceName": "Noise"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "11",
+    "figmaId": "831:1255",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.11.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1255",
+        "category": "base",
+        "file": "parts/11/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.11.shape",
+        "name": "Shape",
+        "figmaId": "604:5577",
+        "category": "shape",
+        "file": "parts/11/shape.svg",
+        "kind": "vector",
+        "fills": [
+          "#2463D6",
+          "#43BA7F",
+          "#4B84EB",
+          "#6BB8FF",
+          "#6BCAFF",
+          "#6BF6FF",
+          "#6E6BFF",
+          "#916BFF",
+          "#AC6BFF",
+          "#E16BFF",
+          "#EC70FF",
+          "#FCC232",
+          "#FF6B74",
+          "#FF6BB2",
+          "#FF746B",
+          "#FF986B",
+          "#FFC46B",
+          "#FFDF6B",
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#6E6BFF": "background",
+          "#FF6B74": "primary",
+          "#FFC46B": "secondary",
+          "#EC70FF": "accent",
+          "#6BB8FF": "accent",
+          "#E16BFF": "accent",
+          "#916BFF": "accent",
+          "#2463D6": "accent",
+          "#4B84EB": "accent",
+          "#AC6BFF": "accent",
+          "#FF746B": "accent",
+          "#6BCAFF": "accent",
+          "#FF986B": "accent",
+          "#FF6BB2": "accent",
+          "#6BF6FF": "accent",
+          "#FFDF6B": "accent",
+          "#43BA7F": "accent",
+          "#FCC232": "accent",
+          "#FFFFFF": "accent"
+        },
+        "bounds": [
+          0.64308682,
+          0.0,
+          0.25401929,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#2463D6": 617.2667,
+          "#43BA7F": 46.0549,
+          "#4B84EB": 617.2588,
+          "#6BB8FF": 617.502,
+          "#6BCAFF": 616.9373,
+          "#6BF6FF": 583.0039,
+          "#6E6BFF": 617.6431,
+          "#916BFF": 617.3255,
+          "#AC6BFF": 617.1961,
+          "#E16BFF": 617.4314,
+          "#EC70FF": 617.5059,
+          "#FCC232": 9.2706,
+          "#FF6B74": 617.6431,
+          "#FF6BB2": 616.6902,
+          "#FF746B": 617.0118,
+          "#FF986B": 616.8353,
+          "#FFC46B": 617.5294,
+          "#FFDF6B": 524.4235,
+          "#FFFFFF": 0.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "28567b1a89c7a32f822c77982d2fb93784c54cc880ce815848e07479b3f3a935"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:4611",
+      "layers": [
+        {
+          "id": "cardy.11.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1255",
+          "category": "base",
+          "file": "parts/11/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.11.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:4612",
+          "kind": "group",
+          "bounds": [
+            0.6430868167202572,
+            0.0,
+            0.2540192926045016,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.11.shape",
+              "name": "Shape",
+              "figmaId": "604:5577",
+              "category": "shape",
+              "file": "parts/11/shape.svg",
+              "kind": "vector",
+              "fills": [
+                "#2463D6",
+                "#43BA7F",
+                "#4B84EB",
+                "#6BB8FF",
+                "#6BCAFF",
+                "#6BF6FF",
+                "#6E6BFF",
+                "#916BFF",
+                "#AC6BFF",
+                "#E16BFF",
+                "#EC70FF",
+                "#FCC232",
+                "#FF6B74",
+                "#FF6BB2",
+                "#FF746B",
+                "#FF986B",
+                "#FFC46B",
+                "#FFDF6B",
+                "#FFFFFF"
+              ],
+              "roleMap": {
+                "#6E6BFF": "background",
+                "#FF6B74": "primary",
+                "#FFC46B": "secondary",
+                "#EC70FF": "accent",
+                "#6BB8FF": "accent",
+                "#E16BFF": "accent",
+                "#916BFF": "accent",
+                "#2463D6": "accent",
+                "#4B84EB": "accent",
+                "#AC6BFF": "accent",
+                "#FF746B": "accent",
+                "#6BCAFF": "accent",
+                "#FF986B": "accent",
+                "#FF6BB2": "accent",
+                "#6BF6FF": "accent",
+                "#FFDF6B": "accent",
+                "#43BA7F": "accent",
+                "#FCC232": "accent",
+                "#FFFFFF": "accent"
+              },
+              "bounds": [
+                0.64308682,
+                0.0,
+                0.25401929,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#2463D6": 617.2667,
+                "#43BA7F": 46.0549,
+                "#4B84EB": 617.2588,
+                "#6BB8FF": 617.502,
+                "#6BCAFF": 616.9373,
+                "#6BF6FF": 583.0039,
+                "#6E6BFF": 617.6431,
+                "#916BFF": 617.3255,
+                "#AC6BFF": 617.1961,
+                "#E16BFF": 617.4314,
+                "#EC70FF": 617.5059,
+                "#FCC232": 9.2706,
+                "#FF6B74": 617.6431,
+                "#FF6BB2": 616.6902,
+                "#FF746B": 617.0118,
+                "#FF986B": 616.8353,
+                "#FFC46B": 617.5294,
+                "#FFDF6B": 524.4235,
+                "#FFFFFF": 0.0
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "28567b1a89c7a32f822c77982d2fb93784c54cc880ce815848e07479b3f3a935",
+              "sourceFigmaId": "1604:4613",
+              "sourceName": "Shape"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "12",
+    "figmaId": "831:1256",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.12.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1256",
+        "category": "base",
+        "file": "parts/12/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#F178B6"
+        ],
+        "roleMap": {
+          "#F178B6": "background"
+        },
+        "fillArea": {
+          "#F178B6": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "675cf594e64b732489c7929e9099db18aee269041e90a67149d964d6bab95bde"
+      },
+      {
+        "id": "cardy.12.pattern",
+        "name": "Pattern",
+        "figmaId": "604:6641",
+        "category": "pattern",
+        "file": "parts/12/pattern.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          -0.18044072,
+          -0.27375153,
+          1.52296031,
+          2.30676132
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 0.25,
+        "fillArea": {
+          "#FFFFFF": 11910.9333
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "d43d0b2a19ae43c691d03b84fd6dc1bb80ab956f041efe7d0c29b27a81332511"
+      },
+      {
+        "id": "cardy.12.noise",
+        "name": "Noise",
+        "figmaId": "800:1446",
+        "category": "texture",
+        "file": "parts/12/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 1,
+        "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26"
+      },
+      {
+        "id": "cardy.12.overlay",
+        "name": "Overlay",
+        "figmaId": "604:7507",
+        "category": "overlay",
+        "file": "parts/12/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "bounds": [
+          0.0,
+          0.525,
+          1.0,
+          0.475
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#111111": 29406.5608
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "f328c12ccbca3ce3c1cffff229322bdf01d221c25f2d153da002a2dc7f0cf5bf",
+        "layout": "h50",
+        "selectable": false
+      }
+    ],
+    "design": {
+      "figmaId": "1604:3736",
+      "layers": [
+        {
+          "id": "cardy.12.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1256",
+          "category": "base",
+          "file": "parts/12/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#F178B6"
+          ],
+          "roleMap": {
+            "#F178B6": "background"
+          },
+          "fillArea": {
+            "#F178B6": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "675cf594e64b732489c7929e9099db18aee269041e90a67149d964d6bab95bde",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.12.pattern",
+          "name": "Pattern",
+          "figmaId": "604:6641",
+          "category": "pattern",
+          "file": "parts/12/pattern.svg",
+          "kind": "vector",
+          "fills": [
+            "#FFFFFF"
+          ],
+          "roleMap": {
+            "#FFFFFF": "background"
+          },
+          "bounds": [
+            -0.18044072,
+            -0.27375153,
+            1.52296031,
+            2.30676132
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 0.25,
+          "fillArea": {
+            "#FFFFFF": 11910.9333
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "d43d0b2a19ae43c691d03b84fd6dc1bb80ab956f041efe7d0c29b27a81332511",
+          "sourceFigmaId": "1604:3737",
+          "sourceName": "Pattern"
+        },
+        {
+          "id": "cardy.12.noise",
+          "name": "Noise",
+          "figmaId": "800:1446",
+          "category": "texture",
+          "file": "parts/12/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "OVERLAY",
+          "opacity": 1,
+          "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26",
+          "sourceFigmaId": "1604:4603",
+          "sourceName": "Noise"
+        },
+        {
+          "id": "cardy.12.overlay",
+          "name": "Overlay",
+          "figmaId": "604:7507",
+          "category": "overlay",
+          "file": "parts/12/overlay.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "bounds": [
+            0.0,
+            0.525,
+            1.0,
+            0.475
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#111111": 29406.5608
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "f328c12ccbca3ce3c1cffff229322bdf01d221c25f2d153da002a2dc7f0cf5bf",
+          "layout": "h50",
+          "selectable": false,
+          "sourceFigmaId": "1604:4604",
+          "sourceName": "Overlay"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "13",
+    "figmaId": "831:1266",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.13.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1266",
+        "category": "base",
+        "file": "parts/13/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#000000"
+        ],
+        "roleMap": {
+          "#000000": "background"
+        },
+        "fillArea": {
+          "#000000": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "af4822f9ea0b1ed25527cbc9fe344c77f007fb4b4f852754a8c28c868891c1ee"
+      },
+      {
+        "id": "cardy.13.gradient",
+        "name": "Gradient",
+        "figmaId": "604:6534",
+        "category": "base",
+        "file": "parts/13/gradient.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          0.62
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "sha256": "4886e3a332d7b9c2d55b456ba7cebce2b0b13f24afa1b2c9de5e2b26c1bad2e7"
+      },
+      {
+        "id": "cardy.13.noise",
+        "name": "Noise",
+        "figmaId": "800:1441",
+        "category": "texture",
+        "file": "parts/13/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          0.62
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 0.5,
+        "sha256": "63c4c72426958a419fb684bb563a4021e6f16a2b729445b78f419e2ee01ebdaf"
+      },
+      {
+        "id": "cardy.13.overlay",
+        "name": "Overlay",
+        "figmaId": "604:6536",
+        "category": "overlay",
+        "file": "parts/13/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "bounds": [
+          0.0,
+          0.62,
+          1.0,
+          0.38
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#111111": 23636.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "29d0c4d8ba484ff47c2d5d6b9255955b4558c8546396aefa1cdc2fc1d4892865",
+        "layout": "h67",
+        "selectable": false
+      }
+    ],
+    "design": {
+      "figmaId": "1604:3722",
+      "layers": [
+        {
+          "id": "cardy.13.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1266",
+          "category": "base",
+          "file": "parts/13/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#000000"
+          ],
+          "roleMap": {
+            "#000000": "background"
+          },
+          "fillArea": {
+            "#000000": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "af4822f9ea0b1ed25527cbc9fe344c77f007fb4b4f852754a8c28c868891c1ee",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.13.gradient",
+          "name": "Gradient",
+          "figmaId": "604:6534",
+          "category": "base",
+          "file": "parts/13/gradient.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            0.62
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "sha256": "4886e3a332d7b9c2d55b456ba7cebce2b0b13f24afa1b2c9de5e2b26c1bad2e7",
+          "sourceFigmaId": "1604:3723",
+          "sourceName": "Gradient"
+        },
+        {
+          "id": "cardy.13.noise",
+          "name": "Noise",
+          "figmaId": "800:1441",
+          "category": "texture",
+          "file": "parts/13/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            0.62
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 0.5,
+          "sha256": "63c4c72426958a419fb684bb563a4021e6f16a2b729445b78f419e2ee01ebdaf",
+          "sourceFigmaId": "1604:3724",
+          "sourceName": "Noise"
+        },
+        {
+          "id": "cardy.13.overlay",
+          "name": "Overlay",
+          "figmaId": "604:6536",
+          "category": "overlay",
+          "file": "parts/13/overlay.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "bounds": [
+            0.0,
+            0.62,
+            1.0,
+            0.38
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#111111": 23636.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "29d0c4d8ba484ff47c2d5d6b9255955b4558c8546396aefa1cdc2fc1d4892865",
+          "layout": "h67",
+          "selectable": false,
+          "sourceFigmaId": "1604:3725",
+          "sourceName": "Overlay"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "14",
+    "figmaId": "985:1986",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.14.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "986:1986",
+        "category": "base",
+        "file": "parts/14/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#000000"
+        ],
+        "roleMap": {
+          "#000000": "background"
+        },
+        "fillArea": {
+          "#000000": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "af4822f9ea0b1ed25527cbc9fe344c77f007fb4b4f852754a8c28c868891c1ee"
+      },
+      {
+        "id": "cardy.14.shapes",
+        "name": "Shapes",
+        "figmaId": "988:2222",
+        "category": "shape",
+        "file": "parts/14/shapes.svg",
+        "kind": "vector",
+        "fills": [
+          "#000000",
+          "#55BBDA",
+          "#EA552B",
+          "#EE8DB9",
+          "#F7D046",
+          "#FBE8DE",
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#000000": "background",
+          "#EE8DB9": "primary",
+          "#EA552B": "secondary",
+          "#F7D046": "accent",
+          "#FBE8DE": "accent",
+          "#55BBDA": "accent",
+          "#FFFFFF": "accent"
+        },
+        "bounds": [
+          -0.10932476,
+          -0.08,
+          1.20057654,
+          1.50465179
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#000000": 13288.8431,
+          "#55BBDA": 632.2118,
+          "#EA552B": 2188.2471,
+          "#EE8DB9": 2750.2196,
+          "#F7D046": 2064.251,
+          "#FBE8DE": 1564.502,
+          "#FFFFFF": 453.4353
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "2b5fdebeab64fb572149908aa3f82ab1b2aaa280334bf3e13b281fb02cb3ac7b"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:3691",
+      "layers": [
+        {
+          "id": "cardy.14.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "986:1986",
+          "category": "base",
+          "file": "parts/14/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#000000"
+          ],
+          "roleMap": {
+            "#000000": "background"
+          },
+          "fillArea": {
+            "#000000": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "af4822f9ea0b1ed25527cbc9fe344c77f007fb4b4f852754a8c28c868891c1ee",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.14.large",
+          "name": "Large",
+          "sourceFigmaId": "1604:3692",
+          "kind": "group",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.14.shapes",
+              "name": "Shapes",
+              "figmaId": "988:2222",
+              "category": "shape",
+              "file": "parts/14/shapes.svg",
+              "kind": "vector",
+              "fills": [
+                "#000000",
+                "#55BBDA",
+                "#EA552B",
+                "#EE8DB9",
+                "#F7D046",
+                "#FBE8DE",
+                "#FFFFFF"
+              ],
+              "roleMap": {
+                "#000000": "background",
+                "#EE8DB9": "primary",
+                "#EA552B": "secondary",
+                "#F7D046": "accent",
+                "#FBE8DE": "accent",
+                "#55BBDA": "accent",
+                "#FFFFFF": "accent"
+              },
+              "bounds": [
+                -0.10932476,
+                -0.08,
+                1.20057654,
+                1.50465179
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#000000": 13288.8431,
+                "#55BBDA": 632.2118,
+                "#EA552B": 2188.2471,
+                "#EE8DB9": 2750.2196,
+                "#F7D046": 2064.251,
+                "#FBE8DE": 1564.502,
+                "#FFFFFF": 453.4353
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "2b5fdebeab64fb572149908aa3f82ab1b2aaa280334bf3e13b281fb02cb3ac7b",
+              "sourceFigmaId": "1604:3693",
+              "sourceName": "Shapes"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "15",
+    "figmaId": "831:1259",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.15.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1259",
+        "category": "base",
+        "file": "parts/15/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#694BFF"
+        ],
+        "roleMap": {
+          "#694BFF": "background"
+        },
+        "fillArea": {
+          "#694BFF": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "c62150252bea2607081e0c5908470d89f235be333fe5e4ba70809d45d59d3e2b"
+      },
+      {
+        "id": "cardy.15.overlay",
+        "name": "Overlay",
+        "figmaId": "604:5730",
+        "category": "overlay",
+        "file": "parts/15/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "bounds": [
+          0.0,
+          0.46,
+          1.0,
+          0.54
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#111111": 33588.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "b953d92cd087dfcccb669b988656a3718dc2266242da0e5a9a84539ba83badaa",
+        "layout": "h50",
+        "selectable": false
+      },
+      {
+        "id": "cardy.15.pattern",
+        "name": "Pattern",
+        "figmaId": "604:5731",
+        "category": "pattern",
+        "file": "parts/15/pattern.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.0,
+          0.46,
+          1.0,
+          0.54
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 0.4000000059604645,
+        "fillArea": {
+          "#FFFFFF": 1117.5647
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "a7ba6358b51a87d90d04ed1ae132bb3ecb80aa104de07356cf08efe382718f5f"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2909",
+      "layers": [
+        {
+          "id": "cardy.15.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1259",
+          "category": "base",
+          "file": "parts/15/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#694BFF"
+          ],
+          "roleMap": {
+            "#694BFF": "background"
+          },
+          "fillArea": {
+            "#694BFF": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "c62150252bea2607081e0c5908470d89f235be333fe5e4ba70809d45d59d3e2b",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.15.overlay",
+          "name": "Overlay",
+          "figmaId": "604:5730",
+          "category": "overlay",
+          "file": "parts/15/overlay.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "bounds": [
+            0.0,
+            0.46,
+            1.0,
+            0.54
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#111111": 33588.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "b953d92cd087dfcccb669b988656a3718dc2266242da0e5a9a84539ba83badaa",
+          "layout": "h50",
+          "selectable": false,
+          "sourceFigmaId": "1604:2910",
+          "sourceName": "Overlay"
+        },
+        {
+          "id": "cardy.15.pattern",
+          "name": "Pattern",
+          "figmaId": "604:5731",
+          "category": "pattern",
+          "file": "parts/15/pattern.svg",
+          "kind": "vector",
+          "fills": [
+            "#FFFFFF"
+          ],
+          "roleMap": {
+            "#FFFFFF": "background"
+          },
+          "bounds": [
+            0.0,
+            0.46,
+            1.0,
+            0.54
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 0.4000000059604645,
+          "fillArea": {
+            "#FFFFFF": 1117.5647
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "a7ba6358b51a87d90d04ed1ae132bb3ecb80aa104de07356cf08efe382718f5f",
+          "sourceFigmaId": "1604:2911",
+          "sourceName": "Pattern"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "16",
+    "figmaId": "831:1263",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.16.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1263",
+        "category": "base",
+        "file": "parts/16/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#306BDD"
+        ],
+        "roleMap": {
+          "#306BDD": "background"
+        },
+        "fillArea": {
+          "#306BDD": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "212c896da915f16ca79c6ef078fa18f736d255ad9a4ee9501a8ab15ec4a575fe"
+      },
+      {
+        "id": "cardy.16.pattern",
+        "name": "Pattern",
+        "figmaId": "604:5320",
+        "category": "pattern",
+        "file": "parts/16/pattern.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.54340836,
+          0.0,
+          0.45659164,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 0.800000011920929,
+        "sha256": "624f7bed0db1b7f4cfe45dd3acaf4ad31f04d3623b581bda551eaec0e56b5e76"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2902",
+      "layers": [
+        {
+          "id": "cardy.16.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1263",
+          "category": "base",
+          "file": "parts/16/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#306BDD"
+          ],
+          "roleMap": {
+            "#306BDD": "background"
+          },
+          "fillArea": {
+            "#306BDD": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "212c896da915f16ca79c6ef078fa18f736d255ad9a4ee9501a8ab15ec4a575fe",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.16.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:2903",
+          "kind": "group",
+          "bounds": [
+            0.5434083601286174,
+            0.0,
+            0.4565916398713826,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.16.pattern",
+              "name": "Pattern",
+              "figmaId": "604:5320",
+              "category": "pattern",
+              "file": "parts/16/pattern.png",
+              "kind": "image",
+              "fills": [],
+              "roleMap": {},
+              "bounds": [
+                0.54340836,
+                0.0,
+                0.45659164,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 0.800000011920929,
+              "sha256": "624f7bed0db1b7f4cfe45dd3acaf4ad31f04d3623b581bda551eaec0e56b5e76",
+              "sourceFigmaId": "1604:2904",
+              "sourceName": "Pattern"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "17",
+    "figmaId": "831:1264",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.17.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1264",
+        "category": "base",
+        "file": "parts/17/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFE600"
+        ],
+        "roleMap": {
+          "#FFE600": "background"
+        },
+        "fillArea": {
+          "#FFE600": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "01ee7cd4847fd17d7f21f382b7cf11dd2b4702d44c68536d3148f75cac7d05fe"
+      },
+      {
+        "id": "cardy.17.pattern",
+        "name": "Pattern",
+        "figmaId": "604:5309",
+        "category": "pattern",
+        "file": "parts/17/pattern.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          0.52
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "sha256": "85a3e2cae2af8a52bf8234ca5e6b963178ab04fb69ce7a7f246b711b58e7e1f4"
+      },
+      {
+        "id": "cardy.17.overlay",
+        "name": "Overlay",
+        "figmaId": "604:5312",
+        "category": "overlay",
+        "file": "parts/17/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "bounds": [
+          0.0,
+          0.52,
+          1.0,
+          0.48
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#111111": 29856.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "ff431672c2b735fc9bd3760248520d4067001a2ffc1aa587052a9204919bfa76",
+        "layout": "h50",
+        "selectable": false
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2893",
+      "layers": [
+        {
+          "id": "cardy.17.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1264",
+          "category": "base",
+          "file": "parts/17/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#FFE600"
+          ],
+          "roleMap": {
+            "#FFE600": "background"
+          },
+          "fillArea": {
+            "#FFE600": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "01ee7cd4847fd17d7f21f382b7cf11dd2b4702d44c68536d3148f75cac7d05fe",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.17.pattern",
+          "name": "Pattern",
+          "sourceFigmaId": "1604:2894",
+          "kind": "group",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            0.52
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.17.pattern-fill",
+              "name": "Pattern",
+              "sourceFigmaId": "1604:2895",
+              "figmaId": "1604:2895",
+              "file": "parts/17/fixed-pattern-fill.png",
+              "kind": "image",
+              "category": "pattern",
+              "bounds": [
+                0,
+                0,
+                1,
+                1
+              ],
+              "clipBounds": [
+                0,
+                0,
+                1,
+                0.52
+              ],
+              "blendMode": "PASS_THROUGH",
+              "opacity": 0.1,
+              "roleMap": {},
+              "visible": true,
+              "sha256": "7c8b6d3eb2f18ba14e6c423af05a8baa8b2d21c5d65f1dbd474f6d36bf492714",
+              "roleOverrides": {
+                "#000000": "secondary",
+                "#0000FF": "secondary",
+                "#00FF00": "secondary",
+                "#00FFFF": "secondary",
+                "#FF0000": "secondary",
+                "#FF00FF": "secondary",
+                "#FFFF00": "secondary",
+                "#FFFFFF": "secondary"
+              }
+            },
+            {
+              "id": "cardy.17.pattern-noise",
+              "name": "Noise",
+              "sourceFigmaId": "1604:2896",
+              "figmaId": "1604:2896",
+              "file": "parts/17/fixed-pattern-noise.png",
+              "kind": "image",
+              "category": "pattern",
+              "bounds": [
+                0,
+                0,
+                1,
+                1
+              ],
+              "clipBounds": [
+                0,
+                0,
+                1,
+                0.52
+              ],
+              "blendMode": "OVERLAY",
+              "opacity": 0.2,
+              "roleMap": {},
+              "visible": true,
+              "sha256": "e8fc2a0f8fee8a77b9060a58a4dd4f10dadd497fd512af4047812eb110e3d33d"
+            }
+          ]
+        },
+        {
+          "id": "cardy.17.overlay",
+          "name": "Overlay",
+          "figmaId": "604:5312",
+          "category": "overlay",
+          "file": "parts/17/overlay.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "bounds": [
+            0.0,
+            0.52,
+            1.0,
+            0.48
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#111111": 29856.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "ff431672c2b735fc9bd3760248520d4067001a2ffc1aa587052a9204919bfa76",
+          "layout": "h50",
+          "selectable": false,
+          "sourceFigmaId": "1604:2897",
+          "sourceName": "Overlay"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "18",
+    "figmaId": "831:1267",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.18.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1267",
+        "category": "base",
+        "file": "parts/18/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.18.shapes",
+        "name": "Shapes",
+        "figmaId": "604:5611",
+        "category": "shape",
+        "file": "parts/18/shapes.svg",
+        "kind": "vector",
+        "fills": [
+          "#3E3E3E",
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background",
+          "#3E3E3E": "primary"
+        },
+        "bounds": [
+          0.45659164,
+          0.12,
+          0.46623667,
+          0.76000015
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 0.5,
+        "fillArea": {
+          "#3E3E3E": 564.0157,
+          "#FFFFFF": 1758.5961
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "43198a2c75a4ad21fa0dd21e93c1fca0159efbe21786649372a2130fface7657"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2812",
+      "layers": [
+        {
+          "id": "cardy.18.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1267",
+          "category": "base",
+          "file": "parts/18/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.18.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:2813",
+          "kind": "group",
+          "bounds": [
+            0.4565916398713826,
+            0.12,
+            0.4662363720860129,
+            0.7599955749511719
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.18.shapes",
+              "name": "Shapes",
+              "figmaId": "604:5611",
+              "category": "shape",
+              "file": "parts/18/shapes.svg",
+              "kind": "vector",
+              "fills": [
+                "#3E3E3E",
+                "#FFFFFF"
+              ],
+              "roleMap": {
+                "#FFFFFF": "background",
+                "#3E3E3E": "primary"
+              },
+              "bounds": [
+                0.45659164,
+                0.12,
+                0.46623667,
+                0.76000015
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 0.5,
+              "fillArea": {
+                "#3E3E3E": 564.0157,
+                "#FFFFFF": 1758.5961
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "43198a2c75a4ad21fa0dd21e93c1fca0159efbe21786649372a2130fface7657",
+              "sourceFigmaId": "1604:2814",
+              "sourceName": "Shapes"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "19",
+    "figmaId": "831:1261",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.19.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1261",
+        "category": "base",
+        "file": "parts/19/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#0B1F51"
+        ],
+        "roleMap": {
+          "#0B1F51": "background"
+        },
+        "fillArea": {
+          "#0B1F51": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "59b8f91b9621c2251ccd2cf28297d98bf23ae6ece9bf5750c53bd2460d456fcb"
+      },
+      {
+        "id": "cardy.19.overlay",
+        "name": "Overlay",
+        "figmaId": "604:6513",
+        "category": "overlay",
+        "file": "parts/19/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#1EC4F8"
+        ],
+        "roleMap": {
+          "#1EC4F8": "background"
+        },
+        "bounds": [
+          0.0,
+          0.62,
+          1.0,
+          0.38
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#1EC4F8": 23636.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "79f1adf6f03ebd258cc36feae6b1d0134d3d8b07a5e2b230dc7417ac72a045c1",
+        "layout": "h67",
+        "selectable": false
+      },
+      {
+        "id": "cardy.19.shape",
+        "name": "Shape",
+        "figmaId": "604:6514",
+        "category": "shape",
+        "file": "parts/19/shape.svg",
+        "kind": "vector",
+        "fills": [
+          "#405996"
+        ],
+        "roleMap": {
+          "#405996": "background"
+        },
+        "bounds": [
+          0.52090032,
+          0.0,
+          0.47909968,
+          0.66
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#405996": 618.0353
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "5733a7e56a0e37deebdc02462da1973901dd0ee5a302db2b04c38f5b605418d8"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2796",
+      "layers": [
+        {
+          "id": "cardy.19.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1261",
+          "category": "base",
+          "file": "parts/19/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#0B1F51"
+          ],
+          "roleMap": {
+            "#0B1F51": "background"
+          },
+          "fillArea": {
+            "#0B1F51": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "59b8f91b9621c2251ccd2cf28297d98bf23ae6ece9bf5750c53bd2460d456fcb",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.19.overlay",
+          "name": "Overlay",
+          "figmaId": "604:6513",
+          "category": "overlay",
+          "file": "parts/19/overlay.svg",
+          "kind": "vector",
+          "fills": [
+            "#1EC4F8"
+          ],
+          "roleMap": {
+            "#1EC4F8": "background"
+          },
+          "bounds": [
+            0.0,
+            0.62,
+            1.0,
+            0.38
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#1EC4F8": 23636.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "79f1adf6f03ebd258cc36feae6b1d0134d3d8b07a5e2b230dc7417ac72a045c1",
+          "layout": "h67",
+          "selectable": false,
+          "sourceFigmaId": "1604:2797",
+          "sourceName": "Overlay"
+        },
+        {
+          "id": "cardy.19.shape",
+          "name": "Shape",
+          "figmaId": "604:6514",
+          "category": "shape",
+          "file": "parts/19/shape.svg",
+          "kind": "vector",
+          "fills": [
+            "#405996"
+          ],
+          "roleMap": {
+            "#405996": "background"
+          },
+          "bounds": [
+            0.52090032,
+            0.0,
+            0.47909968,
+            0.66
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#405996": 618.0353
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "5733a7e56a0e37deebdc02462da1973901dd0ee5a302db2b04c38f5b605418d8",
+          "sourceFigmaId": "1604:2798",
+          "sourceName": "Shape"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "20",
+    "figmaId": "831:1274",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.20.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1274",
+        "category": "base",
+        "file": "parts/20/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.20.pattern",
+        "name": "Pattern",
+        "figmaId": "800:1281",
+        "category": "pattern",
+        "file": "parts/20/pattern.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "sha256": "a37bc97217d0262817a802ae5691b14dd250e5e297f757290a913e29bcf74db9",
+        "reviewRender": {
+          "file": "review/parts/20-pattern.svg",
+          "kind": "vector",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "fills": [
+            "#770A3C",
+            "#9C5868"
+          ],
+          "roleMap": {
+            "#770A3C": "background",
+            "#9C5868": "secondary"
+          },
+          "sha256": "1aa50d1eeed5801a507f46ffa97b23b3c29e8cf29a44f102de13a986005e324b",
+          "source": "Revision 1 palette-role redraw; original export retained"
+        }
+      },
+      {
+        "id": "cardy.20.background",
+        "name": "Background",
+        "figmaId": "625:7486",
+        "category": "base",
+        "file": "parts/20/background.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          0.55
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#111111": 34210.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "b770b54f9b0b814fc9cef65c958a53db360d20b28668d83d98f13ea39be14816"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2783",
+      "layers": [
+        {
+          "id": "cardy.20.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1274",
+          "category": "base",
+          "file": "parts/20/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.20.pattern",
+          "name": "Pattern",
+          "figmaId": "800:1281",
+          "category": "pattern",
+          "file": "parts/20/pattern.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "sha256": "a37bc97217d0262817a802ae5691b14dd250e5e297f757290a913e29bcf74db9",
+          "sourceFigmaId": "1604:2784",
+          "sourceName": "Pattern",
+          "roleOverrides": {
+            "#FF0000": "primary",
+            "#FF00FF": "primary",
+            "#FFFF00": "primary",
+            "#FFFFFF": "secondary"
+          }
+        },
+        {
+          "id": "cardy.20.background",
+          "name": "Background",
+          "figmaId": "625:7486",
+          "category": "base",
+          "file": "parts/20/background.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            0.55
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#111111": 34210.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "b770b54f9b0b814fc9cef65c958a53db360d20b28668d83d98f13ea39be14816",
+          "sourceFigmaId": "1604:2789",
+          "sourceName": "Background"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "21",
+    "figmaId": "831:1270",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.21.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1270",
+        "category": "base",
+        "file": "parts/21/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.21.back",
+        "name": "Back",
+        "figmaId": "625:7473",
+        "category": "base",
+        "file": "parts/21/back.svg",
+        "kind": "vector",
+        "fills": [
+          "#5BC4FC"
+        ],
+        "roleMap": {
+          "#5BC4FC": "background"
+        },
+        "bounds": [
+          0.5755627,
+          0.265,
+          0.4244373,
+          0.47000001
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#5BC4FC": 12408.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "e8b575fcf6b487eb27ccef657f268f727f7ac14c033356fd7f445ee5b02307b9"
+      },
+      {
+        "id": "cardy.21.mask-group",
+        "name": "Mask group",
+        "figmaId": "625:7474",
+        "category": "pattern",
+        "file": "parts/21/mask-group.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.5755627,
+          0.265,
+          0.4244373,
+          0.47
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FFFFFF": 1138.502
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "4baf6e5a080eb051e4516f06d675d793cad68ac484c1148f978c52fffc21aef8"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2770",
+      "layers": [
+        {
+          "id": "cardy.21.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1270",
+          "category": "base",
+          "file": "parts/21/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.21.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:2771",
+          "kind": "group",
+          "bounds": [
+            0.5755627009646302,
+            0.265,
+            0.42443729903536975,
+            0.47
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.21.back",
+              "name": "Back",
+              "figmaId": "625:7473",
+              "category": "base",
+              "file": "parts/21/back.svg",
+              "kind": "vector",
+              "fills": [
+                "#5BC4FC"
+              ],
+              "roleMap": {
+                "#5BC4FC": "background"
+              },
+              "bounds": [
+                0.5755627,
+                0.265,
+                0.4244373,
+                0.47000001
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#5BC4FC": 12408.0
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "e8b575fcf6b487eb27ccef657f268f727f7ac14c033356fd7f445ee5b02307b9",
+              "sourceFigmaId": "1604:2772",
+              "sourceName": "Back"
+            },
+            {
+              "id": "cardy.21.mask-group",
+              "name": "Mask group",
+              "figmaId": "625:7474",
+              "category": "pattern",
+              "file": "parts/21/mask-group.svg",
+              "kind": "vector",
+              "fills": [
+                "#FFFFFF"
+              ],
+              "roleMap": {
+                "#FFFFFF": "background"
+              },
+              "bounds": [
+                0.5755627,
+                0.265,
+                0.4244373,
+                0.47
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#FFFFFF": 1138.502
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "4baf6e5a080eb051e4516f06d675d793cad68ac484c1148f978c52fffc21aef8",
+              "sourceFigmaId": "1604:2773",
+              "sourceName": "Mask group"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "22",
+    "figmaId": "831:1257",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.22.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1257",
+        "category": "base",
+        "file": "parts/22/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#C4DAEE"
+        ],
+        "roleMap": {
+          "#C4DAEE": "background"
+        },
+        "fillArea": {
+          "#C4DAEE": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "26dd1b57fda0f0bc2f40a4621cb55ee0b6ca16daa9302d6b903849496b6dddb2"
+      },
+      {
+        "id": "cardy.22.shapes",
+        "name": "Shapes",
+        "figmaId": "666:6631",
+        "category": "shape",
+        "file": "parts/22/shapes.svg",
+        "kind": "vector",
+        "fills": [
+          "#91B7D9"
+        ],
+        "roleMap": {
+          "#91B7D9": "background"
+        },
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#91B7D9": 700.749
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "c172d2461b8d0cc72d88512d4f9d7c197bffbc79e72cea53f592a4986a72fbe9"
+      },
+      {
+        "id": "cardy.22.back",
+        "name": "Back",
+        "figmaId": "666:6638",
+        "category": "base",
+        "file": "parts/22/back.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.0,
+          0.57,
+          1.0,
+          0.43
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FFFFFF": 26607.5608
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "0ec66a4ab7e3c16cced49ad3d8b514ab6a5b57851f3fe1b00344cd27eb2103a7"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2752",
+      "layers": [
+        {
+          "id": "cardy.22.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1257",
+          "category": "base",
+          "file": "parts/22/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#C4DAEE"
+          ],
+          "roleMap": {
+            "#C4DAEE": "background"
+          },
+          "fillArea": {
+            "#C4DAEE": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "26dd1b57fda0f0bc2f40a4621cb55ee0b6ca16daa9302d6b903849496b6dddb2",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.22.shapes",
+          "name": "Shapes",
+          "figmaId": "666:6631",
+          "category": "shape",
+          "file": "parts/22/shapes.svg",
+          "kind": "vector",
+          "fills": [
+            "#91B7D9"
+          ],
+          "roleMap": {
+            "#91B7D9": "background"
+          },
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#91B7D9": 700.749
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "c172d2461b8d0cc72d88512d4f9d7c197bffbc79e72cea53f592a4986a72fbe9",
+          "sourceFigmaId": "1604:2753",
+          "sourceName": "Shapes"
+        },
+        {
+          "id": "cardy.22.back",
+          "name": "Back",
+          "figmaId": "666:6638",
+          "category": "base",
+          "file": "parts/22/back.svg",
+          "kind": "vector",
+          "fills": [
+            "#FFFFFF"
+          ],
+          "roleMap": {
+            "#FFFFFF": "background"
+          },
+          "bounds": [
+            0.0,
+            0.57,
+            1.0,
+            0.43
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#FFFFFF": 26607.5608
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "0ec66a4ab7e3c16cced49ad3d8b514ab6a5b57851f3fe1b00344cd27eb2103a7",
+          "sourceFigmaId": "1604:2760",
+          "sourceName": "Back"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "23",
+    "figmaId": "831:1271",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.23.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1271",
+        "category": "base",
+        "file": "parts/23/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.23.background",
+        "name": "Background",
+        "figmaId": "604:9538",
+        "category": "base",
+        "file": "parts/23/background.svg",
+        "kind": "vector",
+        "fills": [
+          "#FF746B"
+        ],
+        "roleMap": {
+          "#FF746B": "background"
+        },
+        "bounds": [
+          0.46945338,
+          0.0,
+          0.53054662,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FF746B": 33000.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "2bff2b217e8cc6764286e057e6cfe91ff36b6d29a2b74961234fd988b36eb787"
+      },
+      {
+        "id": "cardy.23.shape",
+        "name": "Shape",
+        "figmaId": "604:9539",
+        "category": "shape",
+        "file": "parts/23/shape.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111",
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background",
+          "#111111": "primary"
+        },
+        "bounds": [
+          0.55305466,
+          0.22,
+          0.35691318,
+          0.555
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#111111": 2520.7137,
+          "#FFFFFF": 3640.8314
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "52568ca5a3fe67bc48729260896609feca4b235a116b3d76f4ccf5b4cd142260"
+      },
+      {
+        "id": "cardy.23.noise",
+        "name": "Noise",
+        "figmaId": "800:1444",
+        "category": "texture",
+        "file": "parts/23/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 1,
+        "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2735",
+      "layers": [
+        {
+          "id": "cardy.23.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1271",
+          "category": "base",
+          "file": "parts/23/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.23.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:2736",
+          "kind": "group",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.23.background",
+              "name": "Background",
+              "figmaId": "604:9538",
+              "category": "base",
+              "file": "parts/23/background.svg",
+              "kind": "vector",
+              "fills": [
+                "#FF746B"
+              ],
+              "roleMap": {
+                "#FF746B": "background"
+              },
+              "bounds": [
+                0.46945338,
+                0.0,
+                0.53054662,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#FF746B": 33000.0
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "2bff2b217e8cc6764286e057e6cfe91ff36b6d29a2b74961234fd988b36eb787",
+              "sourceFigmaId": "1604:2737",
+              "sourceName": "Background"
+            },
+            {
+              "id": "cardy.23.shape",
+              "name": "Shape",
+              "figmaId": "604:9539",
+              "category": "shape",
+              "file": "parts/23/shape.svg",
+              "kind": "vector",
+              "fills": [
+                "#111111",
+                "#FFFFFF"
+              ],
+              "roleMap": {
+                "#FFFFFF": "background",
+                "#111111": "primary"
+              },
+              "bounds": [
+                0.55305466,
+                0.22,
+                0.35691318,
+                0.555
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#111111": 2520.7137,
+                "#FFFFFF": 3640.8314
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "52568ca5a3fe67bc48729260896609feca4b235a116b3d76f4ccf5b4cd142260",
+              "sourceFigmaId": "1604:2738",
+              "sourceName": "Shape"
+            },
+            {
+              "id": "cardy.23.noise",
+              "name": "Noise",
+              "figmaId": "800:1444",
+              "category": "texture",
+              "file": "parts/23/noise.png",
+              "kind": "image",
+              "fills": [],
+              "roleMap": {},
+              "bounds": [
+                0.0,
+                0.0,
+                1.0,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "OVERLAY",
+              "opacity": 1,
+              "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26",
+              "sourceFigmaId": "1604:2745",
+              "sourceName": "Noise"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "24",
+    "figmaId": "831:1268",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.24.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1268",
+        "category": "base",
+        "file": "parts/24/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#111111"
+        ],
+        "roleMap": {
+          "#111111": "background"
+        },
+        "fillArea": {
+          "#111111": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423"
+      },
+      {
+        "id": "cardy.24.pattern",
+        "name": "Pattern",
+        "figmaId": "604:7650",
+        "category": "pattern",
+        "file": "parts/24/pattern.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          0.48
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "sha256": "7cf1471bdbd08420bb3232daac64c087429867e4b001c72be3b59f802a62f230"
+      },
+      {
+        "id": "cardy.24.back",
+        "name": "Back",
+        "figmaId": "604:7653",
+        "category": "base",
+        "file": "parts/24/back.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.48,
+          1.0,
+          0.52
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "sha256": "a4f3a6eb01fb8fd50fbfae36d3c67e00a021deaa69a2cef5882c6de1b3cfdc59"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2717",
+      "layers": [
+        {
+          "id": "cardy.24.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1268",
+          "category": "base",
+          "file": "parts/24/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#111111"
+          ],
+          "roleMap": {
+            "#111111": "background"
+          },
+          "fillArea": {
+            "#111111": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "1c418b99b2e74af12b98bee431e3a821207076a032dd06877ff7e13474328423",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.24.pattern",
+          "name": "Pattern",
+          "figmaId": "604:7650",
+          "category": "pattern",
+          "file": "parts/24/pattern.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            0.48
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "sha256": "7cf1471bdbd08420bb3232daac64c087429867e4b001c72be3b59f802a62f230",
+          "sourceFigmaId": "1604:2718",
+          "sourceName": "Pattern",
+          "roleOverrides": {
+            "#000000": "accent",
+            "#0000FF": "accent:24",
+            "#00FF00": "primary",
+            "#00FFFF": "secondary:12",
+            "#FF0000": "background",
+            "#FF00FF": "primary:24",
+            "#FFFF00": "secondary",
+            "#FFFFFF": "secondary:24"
+          }
+        },
+        {
+          "id": "cardy.24.back",
+          "name": "Back",
+          "figmaId": "604:7653",
+          "category": "base",
+          "file": "parts/24/back.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.48,
+            1.0,
+            0.52
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "sha256": "a4f3a6eb01fb8fd50fbfae36d3c67e00a021deaa69a2cef5882c6de1b3cfdc59",
+          "sourceFigmaId": "1604:2725",
+          "sourceName": "Back"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "25",
+    "figmaId": "831:1273",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.25.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1273",
+        "category": "base",
+        "file": "parts/25/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#4B84EB"
+        ],
+        "roleMap": {
+          "#4B84EB": "background"
+        },
+        "fillArea": {
+          "#4B84EB": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "0160f2a8df7ccfc699e6488e416bcaaac4106453af97038d5ace95242836f866"
+      },
+      {
+        "id": "cardy.25.pattern",
+        "name": "Pattern",
+        "figmaId": "604:7693",
+        "category": "pattern",
+        "file": "parts/25/pattern.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FFFFFF": 3505.8824
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "4fdf39c5f576e45f3e6e3c4d1e8b1dc12c8e621e7278436c94ebb457af286384"
+      },
+      {
+        "id": "cardy.25.noise",
+        "name": "Noise",
+        "figmaId": "801:1298",
+        "category": "texture",
+        "file": "parts/25/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 1,
+        "sha256": "14fac34ed1df950563ad881a41cc1400523bb010aef3a118bc3d90915f9330a3"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2705",
+      "layers": [
+        {
+          "id": "cardy.25.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1273",
+          "category": "base",
+          "file": "parts/25/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#4B84EB"
+          ],
+          "roleMap": {
+            "#4B84EB": "background"
+          },
+          "fillArea": {
+            "#4B84EB": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "0160f2a8df7ccfc699e6488e416bcaaac4106453af97038d5ace95242836f866",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.25.pattern",
+          "name": "Pattern",
+          "figmaId": "604:7693",
+          "category": "pattern",
+          "file": "parts/25/pattern.svg",
+          "kind": "vector",
+          "fills": [
+            "#FFFFFF"
+          ],
+          "roleMap": {
+            "#FFFFFF": "background"
+          },
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#FFFFFF": 3505.8824
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "4fdf39c5f576e45f3e6e3c4d1e8b1dc12c8e621e7278436c94ebb457af286384",
+          "sourceFigmaId": "1604:2706",
+          "sourceName": "Pattern",
+          "roleOverrides": {
+            "#FFFFFF": "secondary"
+          }
+        },
+        {
+          "id": "cardy.25.noise",
+          "name": "Noise",
+          "figmaId": "801:1298",
+          "category": "texture",
+          "file": "parts/25/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "OVERLAY",
+          "opacity": 1,
+          "sha256": "14fac34ed1df950563ad881a41cc1400523bb010aef3a118bc3d90915f9330a3",
+          "sourceFigmaId": "1604:2711",
+          "sourceName": "Noise"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "26",
+    "figmaId": "831:1254",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.26.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1254",
+        "category": "base",
+        "file": "parts/26/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#1E1E1E"
+        ],
+        "roleMap": {
+          "#1E1E1E": "background"
+        },
+        "fillArea": {
+          "#1E1E1E": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "896ab390648a234c3f3378ea3138904a1214539d64e023b13d59cb603d4776f6"
+      },
+      {
+        "id": "cardy.26.back",
+        "name": "Back",
+        "figmaId": "717:1011",
+        "category": "base",
+        "file": "parts/26/back.svg",
+        "kind": "vector",
+        "fills": [
+          "#1E1E1E",
+          "#546EF3",
+          "#8EB5F0",
+          "#E1EBFB"
+        ],
+        "roleMap": {
+          "#E1EBFB": "background",
+          "#8EB5F0": "primary",
+          "#546EF3": "secondary",
+          "#1E1E1E": "accent"
+        },
+        "bounds": [
+          -6e-08,
+          0.0,
+          0.64308687,
+          1.00000009
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#1E1E1E": 4474.0,
+          "#546EF3": 10453.0,
+          "#8EB5F0": 11141.0,
+          "#E1EBFB": 13932.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "03b4e4a96312ba136e1fb1e15c34970584bcc5fe730fcd9545f0bf96adb3b39f"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2644",
+      "layers": [
+        {
+          "id": "cardy.26.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1254",
+          "category": "base",
+          "file": "parts/26/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#1E1E1E"
+          ],
+          "roleMap": {
+            "#1E1E1E": "background"
+          },
+          "fillArea": {
+            "#1E1E1E": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "896ab390648a234c3f3378ea3138904a1214539d64e023b13d59cb603d4776f6",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.26.back",
+          "name": "Back",
+          "figmaId": "717:1011",
+          "category": "base",
+          "file": "parts/26/back.svg",
+          "kind": "vector",
+          "fills": [
+            "#1E1E1E",
+            "#546EF3",
+            "#8EB5F0",
+            "#E1EBFB"
+          ],
+          "roleMap": {
+            "#E1EBFB": "background",
+            "#8EB5F0": "primary",
+            "#546EF3": "secondary",
+            "#1E1E1E": "accent"
+          },
+          "bounds": [
+            -6e-08,
+            0.0,
+            0.64308687,
+            1.00000009
+          ],
+          "visible": true,
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "fillArea": {
+            "#1E1E1E": 4474.0,
+            "#546EF3": 10453.0,
+            "#8EB5F0": 11141.0,
+            "#E1EBFB": 13932.0
+          },
+          "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+          "sha256": "03b4e4a96312ba136e1fb1e15c34970584bcc5fe730fcd9545f0bf96adb3b39f",
+          "sourceFigmaId": "1604:2645",
+          "sourceName": "Back"
+        }
+      ]
+    }
+  },
+  {
+    "variant": "27",
+    "figmaId": "866:1281",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.27.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "867:1497",
+        "category": "base",
+        "file": "parts/27/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#0B1F51"
+        ],
+        "roleMap": {
+          "#0B1F51": "background"
+        },
+        "fillArea": {
+          "#0B1F51": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "59b8f91b9621c2251ccd2cf28297d98bf23ae6ece9bf5750c53bd2460d456fcb"
+      },
+      {
+        "id": "cardy.27.gradient",
+        "name": "Gradient",
+        "figmaId": "887:1364",
+        "category": "base",
+        "file": "parts/27/gradient.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "sha256": "9a50899d7e025e5f61c969128b281d6b82dd1fc5174a6e528ac53860c77fe82d"
+      },
+      {
+        "id": "cardy.27.noise",
+        "name": "Noise",
+        "figmaId": "887:1366",
+        "category": "texture",
+        "file": "parts/27/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          0.62
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 0.5,
+        "sha256": "63c4c72426958a419fb684bb563a4021e6f16a2b729445b78f419e2ee01ebdaf"
+      },
+      {
+        "id": "cardy.27.overlay",
+        "name": "Overlay",
+        "figmaId": "867:1501",
+        "category": "overlay",
+        "file": "parts/27/overlay.svg",
+        "kind": "vector",
+        "fills": [
+          "#000000"
+        ],
+        "roleMap": {
+          "#000000": "background"
+        },
+        "bounds": [
+          0.0,
+          0.62,
+          1.0,
+          0.38
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#000000": 23636.0
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "cbe207476d66773fede51fefc0b847894a3e6ca721a9444b849e45c2370c6d7b",
+        "layout": "h67",
+        "selectable": false
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2630",
+      "layers": [
+        {
+          "id": "cardy.27.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "867:1497",
+          "category": "base",
+          "file": "parts/27/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#0B1F51"
+          ],
+          "roleMap": {
+            "#0B1F51": "background"
+          },
+          "fillArea": {
+            "#0B1F51": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "59b8f91b9621c2251ccd2cf28297d98bf23ae6ece9bf5750c53bd2460d456fcb",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.27.large-27",
+          "name": "Large /  27",
+          "sourceFigmaId": "1604:2631",
+          "kind": "group",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.27.gradient",
+              "name": "Gradient",
+              "figmaId": "887:1364",
+              "category": "base",
+              "file": "parts/27/gradient.png",
+              "kind": "image",
+              "fills": [],
+              "roleMap": {},
+              "bounds": [
+                0.0,
+                0.0,
+                1.0,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "sha256": "9a50899d7e025e5f61c969128b281d6b82dd1fc5174a6e528ac53860c77fe82d",
+              "sourceFigmaId": "1604:2632",
+              "sourceName": "Gradient"
+            },
+            {
+              "id": "cardy.27.noise",
+              "name": "Noise",
+              "figmaId": "887:1366",
+              "category": "texture",
+              "file": "parts/27/noise.png",
+              "kind": "image",
+              "fills": [],
+              "roleMap": {},
+              "bounds": [
+                0.0,
+                0.0,
+                1.0,
+                0.62
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 0.5,
+              "sha256": "63c4c72426958a419fb684bb563a4021e6f16a2b729445b78f419e2ee01ebdaf",
+              "sourceFigmaId": "1604:2633",
+              "sourceName": "Noise"
+            },
+            {
+              "id": "cardy.27.overlay",
+              "name": "Overlay",
+              "figmaId": "867:1501",
+              "category": "overlay",
+              "file": "parts/27/overlay.svg",
+              "kind": "vector",
+              "fills": [
+                "#000000"
+              ],
+              "roleMap": {
+                "#000000": "background"
+              },
+              "bounds": [
+                0.0,
+                0.62,
+                1.0,
+                0.38
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#000000": 23636.0
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "cbe207476d66773fede51fefc0b847894a3e6ca721a9444b849e45c2370c6d7b",
+              "layout": "h67",
+              "selectable": false,
+              "sourceFigmaId": "1604:2634",
+              "sourceName": "Overlay"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "28",
+    "figmaId": "831:1258",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.28.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "831:1258",
+        "category": "base",
+        "file": "parts/28/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#3BBDDF"
+        ],
+        "roleMap": {
+          "#3BBDDF": "background"
+        },
+        "fillArea": {
+          "#3BBDDF": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "2fbf5d890f9c948cd019baccd4754e9cae8a2e7b082c377245e3800aed7fa759"
+      },
+      {
+        "id": "cardy.28.noise",
+        "name": "Noise",
+        "figmaId": "800:1443",
+        "category": "texture",
+        "file": "parts/28/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "OVERLAY",
+        "opacity": 1,
+        "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26"
+      },
+      {
+        "id": "cardy.28.pattern",
+        "name": "Pattern",
+        "figmaId": "604:5329",
+        "category": "pattern",
+        "file": "parts/28/pattern.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          0.58842444,
+          -1.22e-06,
+          0.41157311,
+          1.00000237
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FFFFFF": 6498.3569
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "94f31c2be2c21568d97e71e7814026cd01a1b17950ae25e4278e705a10d8e638"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2382",
+      "layers": [
+        {
+          "id": "cardy.28.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "831:1258",
+          "category": "base",
+          "file": "parts/28/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#3BBDDF"
+          ],
+          "roleMap": {
+            "#3BBDDF": "background"
+          },
+          "fillArea": {
+            "#3BBDDF": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "2fbf5d890f9c948cd019baccd4754e9cae8a2e7b082c377245e3800aed7fa759",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.28.noise",
+          "name": "Noise",
+          "figmaId": "800:1443",
+          "category": "texture",
+          "file": "parts/28/noise.png",
+          "kind": "image",
+          "fills": [],
+          "roleMap": {},
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "visible": true,
+          "blendMode": "OVERLAY",
+          "opacity": 1,
+          "sha256": "d9b39b76c64ec2408c3bb6405a1ab2baaec439cc096c6e741d9986d182904f26",
+          "sourceFigmaId": "1604:2383",
+          "sourceName": "Noise"
+        },
+        {
+          "id": "cardy.28.right-side",
+          "name": "Right Side",
+          "sourceFigmaId": "1604:2384",
+          "kind": "group",
+          "bounds": [
+            0.5884244372990354,
+            -1.220703125e-06,
+            0.4115731095194433,
+            1.0000023651123047
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.28.pattern",
+              "name": "Pattern",
+              "figmaId": "604:5329",
+              "category": "pattern",
+              "file": "parts/28/pattern.svg",
+              "kind": "vector",
+              "fills": [
+                "#FFFFFF"
+              ],
+              "roleMap": {
+                "#FFFFFF": "background"
+              },
+              "bounds": [
+                0.58842444,
+                -1.22e-06,
+                0.41157311,
+                1.00000237
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#FFFFFF": 6498.3569
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "94f31c2be2c21568d97e71e7814026cd01a1b17950ae25e4278e705a10d8e638",
+              "sourceFigmaId": "1604:2385",
+              "sourceName": "Pattern"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "29",
+    "figmaId": "987:1982",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.29.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "988:2198",
+        "category": "base",
+        "file": "parts/29/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#FCFAFA"
+        ],
+        "roleMap": {
+          "#FCFAFA": "background"
+        },
+        "fillArea": {
+          "#FCFAFA": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "9af7a45645da8b82a8011dedb4677ab20671ac0b301ccff516f1ab1e739231b3"
+      },
+      {
+        "id": "cardy.29.shape",
+        "name": "Shape",
+        "figmaId": "988:2199",
+        "category": "shape",
+        "file": "parts/29/shape.svg",
+        "kind": "vector",
+        "fills": [
+          "#000000",
+          "#4CA96D",
+          "#F7D046"
+        ],
+        "roleMap": {
+          "#F7D046": "background",
+          "#4CA96D": "primary",
+          "#000000": "secondary"
+        },
+        "bounds": [
+          2.98713826,
+          0.605,
+          0.72751105,
+          1.165
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#000000": 1830.8431,
+          "#4CA96D": 16549.0588,
+          "#F7D046": 22954.8353
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "c92dd2966000555b84e3605321379f26a8d62f9cb9f36e9656fe3d8b12b2188f"
+      },
+      {
+        "id": "cardy.29.26",
+        "name": "26",
+        "figmaId": "988:2215",
+        "category": "pattern",
+        "file": "parts/29/26.svg",
+        "kind": "vector",
+        "fills": [
+          "#EA552B",
+          "#EE8DB9",
+          "#F7D046"
+        ],
+        "roleMap": {
+          "#F7D046": "background",
+          "#EE8DB9": "primary",
+          "#EA552B": "secondary"
+        },
+        "bounds": [
+          0.7073955,
+          0.07,
+          0.58450151,
+          0.85636864
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "categoryFallback": true,
+        "fillArea": {
+          "#EA552B": 2037.1882,
+          "#EE8DB9": 4813.298,
+          "#F7D046": 7013.3255
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "2a6b4e8bd778c1ab526cc4fd50bf52be0858adac94a5fc885ba698fe328fe785"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:2363",
+      "layers": [
+        {
+          "id": "cardy.29.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "988:2198",
+          "category": "base",
+          "file": "parts/29/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#FCFAFA"
+          ],
+          "roleMap": {
+            "#FCFAFA": "background"
+          },
+          "fillArea": {
+            "#FCFAFA": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "9af7a45645da8b82a8011dedb4677ab20671ac0b301ccff516f1ab1e739231b3",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.29.large",
+          "name": "Large",
+          "sourceFigmaId": "1604:2364",
+          "kind": "group",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.29.shape",
+              "name": "Shape",
+              "figmaId": "988:2199",
+              "category": "shape",
+              "file": "parts/29/shape.svg",
+              "kind": "vector",
+              "fills": [
+                "#000000",
+                "#4CA96D",
+                "#F7D046"
+              ],
+              "roleMap": {
+                "#F7D046": "background",
+                "#4CA96D": "primary",
+                "#000000": "secondary"
+              },
+              "bounds": [
+                2.98713826,
+                0.605,
+                0.72751105,
+                1.165
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#000000": 1830.8431,
+                "#4CA96D": 16549.0588,
+                "#F7D046": 22954.8353
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "c92dd2966000555b84e3605321379f26a8d62f9cb9f36e9656fe3d8b12b2188f",
+              "sourceFigmaId": "1604:2365",
+              "sourceName": "Shape"
+            },
+            {
+              "id": "cardy.29.26",
+              "name": "26",
+              "figmaId": "988:2215",
+              "category": "pattern",
+              "file": "parts/29/26.svg",
+              "kind": "vector",
+              "fills": [
+                "#EA552B",
+                "#EE8DB9",
+                "#F7D046"
+              ],
+              "roleMap": {
+                "#F7D046": "background",
+                "#EE8DB9": "primary",
+                "#EA552B": "secondary"
+              },
+              "bounds": [
+                0.7073955,
+                0.07,
+                0.58450151,
+                0.85636864
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "categoryFallback": true,
+              "fillArea": {
+                "#EA552B": 2037.1882,
+                "#EE8DB9": 4813.298,
+                "#F7D046": 7013.3255
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "2a6b4e8bd778c1ab526cc4fd50bf52be0858adac94a5fc885ba698fe328fe785",
+              "sourceFigmaId": "1604:2378",
+              "sourceName": "26"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "variant": "30",
+    "figmaId": "1045:8367",
+    "size": [
+      311.0,
+      200.0
+    ],
+    "layers": [
+      {
+        "id": "cardy.30.background-fill",
+        "name": "Background (canvas fill)",
+        "figmaId": "1045:8476",
+        "category": "base",
+        "file": "parts/30/background-fill.svg",
+        "kind": "vector",
+        "fills": [
+          "#6549F3"
+        ],
+        "roleMap": {
+          "#6549F3": "background"
+        },
+        "fillArea": {
+          "#6549F3": 62200
+        },
+        "areaMethod": "exact solid canvas area",
+        "bounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "source": "REST canvas fill",
+        "visible": true,
+        "sha256": "11c2a0b746123df52d63b397c848f975668e533f85b2f05e4140e074cc46e399"
+      },
+      {
+        "id": "cardy.30.card",
+        "name": "Card",
+        "figmaId": "1045:8477",
+        "category": "pattern",
+        "file": "parts/30/card.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.00643087,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "isMask": true,
+        "categoryFallback": true,
+        "source": "REST image-fill tile reconstruction (painted mask export returns null)",
+        "exportScale": 4,
+        "sha256": "657313484bd58ec60e1986a747bc8776451d6f8393ec71e4f6b709ddc177c85b"
+      },
+      {
+        "id": "cardy.30.illustration",
+        "name": "Illustration",
+        "figmaId": "1045:8478",
+        "category": "illustration",
+        "file": "parts/30/illustration.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background"
+        },
+        "bounds": [
+          -0.89691319,
+          -1.67263184,
+          2.79261235,
+          4.34713135
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FFFFFF": 4751.8431
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "420d495450f856e7ecff2aa55eafe27b6bb9f46271694b932bdbafea8f5eb076"
+      },
+      {
+        "id": "cardy.30.second-shape",
+        "name": "Second Shape",
+        "figmaId": "1045:9019",
+        "category": "shape",
+        "file": "parts/30/second-shape.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFC46B",
+          "#FFF6E9"
+        ],
+        "roleMap": {
+          "#FFF6E9": "background",
+          "#FFC46B": "primary"
+        },
+        "bounds": [
+          0.34136355,
+          0.0,
+          1.07480516,
+          1.11007217
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FFC46B": 4236.1451,
+          "#FFF6E9": 5684.3686
+        },
+        "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+        "sha256": "bf84501c50c40dccb1718fe15dc24a57de61fb2cbb5562ea27694c8043971c28"
+      },
+      {
+        "id": "cardy.30.shape",
+        "name": "Shape",
+        "figmaId": "1045:9023",
+        "category": "shape",
+        "file": "parts/30/shape.svg",
+        "kind": "vector",
+        "fills": [
+          "#FFC46B",
+          "#FFFFFF"
+        ],
+        "roleMap": {
+          "#FFFFFF": "background",
+          "#FFC46B": "primary"
+        },
+        "bounds": [
+          0.53827101,
+          0.06971558,
+          0.84453492,
+          0.90259521
+        ],
+        "visible": false,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 1,
+        "fillArea": {
+          "#FFC46B": 4259.0,
+          "#FFFFFF": 5698.796078431373
+        },
+        "areaMethod": "hidden: 1x raster of transformed inside strokes; painter order and alpha; nearest original sRGB paint",
+        "source": "REST geometry reconstruction (hidden node export returns null)",
+        "sha256": "b2c97a7e9decbb490dd6690f39e486762f0ccb1ea936f5cc61788c8fa64801c5"
+      },
+      {
+        "id": "cardy.30.noise",
+        "name": "Noise",
+        "figmaId": "1045:9027",
+        "category": "texture",
+        "file": "parts/30/noise.png",
+        "kind": "image",
+        "fills": [],
+        "roleMap": {},
+        "bounds": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "visible": true,
+        "blendMode": "PASS_THROUGH",
+        "opacity": 0.5,
+        "sha256": "bce8890df343cb20b3c59c462b275960b69bab5c6e73a5ed28dcf92737a93028"
+      }
+    ],
+    "design": {
+      "figmaId": "1604:1804",
+      "layers": [
+        {
+          "id": "cardy.30.background-fill",
+          "name": "Background (canvas fill)",
+          "figmaId": "1045:8476",
+          "category": "base",
+          "file": "parts/30/background-fill.svg",
+          "kind": "vector",
+          "fills": [
+            "#6549F3"
+          ],
+          "roleMap": {
+            "#6549F3": "background"
+          },
+          "fillArea": {
+            "#6549F3": 62200
+          },
+          "areaMethod": "exact solid canvas area",
+          "bounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "source": "REST canvas fill",
+          "visible": true,
+          "sha256": "11c2a0b746123df52d63b397c848f975668e533f85b2f05e4140e074cc46e399",
+          "opacity": 1
+        },
+        {
+          "id": "cardy.30.card",
+          "name": "Card",
+          "sourceFigmaId": "1604:1805",
+          "kind": "group",
+          "bounds": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "blendMode": "PASS_THROUGH",
+          "opacity": 1,
+          "children": [
+            {
+              "id": "cardy.30.illustration",
+              "name": "Illustration",
+              "figmaId": "1045:8478",
+              "category": "illustration",
+              "file": "parts/30/illustration.svg",
+              "kind": "vector",
+              "fills": [
+                "#FFFFFF"
+              ],
+              "roleMap": {
+                "#FFFFFF": "background"
+              },
+              "bounds": [
+                -0.89691319,
+                -1.67263184,
+                2.79261235,
+                4.34713135
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#FFFFFF": 4751.8431
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "420d495450f856e7ecff2aa55eafe27b6bb9f46271694b932bdbafea8f5eb076",
+              "sourceFigmaId": "1604:1807",
+              "sourceName": "Illustration"
+            },
+            {
+              "id": "cardy.30.second-shape",
+              "name": "Second Shape",
+              "figmaId": "1045:9019",
+              "category": "shape",
+              "file": "parts/30/second-shape.svg",
+              "kind": "vector",
+              "fills": [
+                "#FFC46B",
+                "#FFF6E9"
+              ],
+              "roleMap": {
+                "#FFF6E9": "background",
+                "#FFC46B": "primary"
+              },
+              "bounds": [
+                0.34136355,
+                0.0,
+                1.07480516,
+                1.11007217
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 1,
+              "fillArea": {
+                "#FFC46B": 4236.1451,
+                "#FFF6E9": 5684.3686
+              },
+              "areaMethod": "alpha-weighted 1x PNG pixels; nearest original sRGB paint (gradient stops included)",
+              "sha256": "bf84501c50c40dccb1718fe15dc24a57de61fb2cbb5562ea27694c8043971c28",
+              "sourceFigmaId": "1604:2348",
+              "sourceName": "Second Shape"
+            },
+            {
+              "id": "cardy.30.noise",
+              "name": "Noise",
+              "figmaId": "1045:9027",
+              "category": "texture",
+              "file": "parts/30/noise.png",
+              "kind": "image",
+              "fills": [],
+              "roleMap": {},
+              "bounds": [
+                0.0,
+                0.0,
+                1.0,
+                1.0
+              ],
+              "visible": true,
+              "blendMode": "PASS_THROUGH",
+              "opacity": 0.5,
+              "sha256": "bce8890df343cb20b3c59c462b275960b69bab5c6e73a5ed28dcf92737a93028",
+              "sourceFigmaId": "1604:2356",
+              "sourceName": "Noise"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

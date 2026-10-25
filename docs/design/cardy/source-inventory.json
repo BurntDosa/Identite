@@ -1,0 +1,1017 @@
+{
+  "file": "PJKGrFdqh2AHfCezlYM518",
+  "componentSet": "1457:1695",
+  "version": "2413487655392573139",
+  "credit": "Card designs include elements from Cardy by Piqo Design.",
+  "variants": [
+    {
+      "variant": "1",
+      "canvasId": "831:1272",
+      "artNodeIds": [
+        "604:7520"
+      ],
+      "excluded": [
+        {
+          "figmaId": "698:1520",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "604:7619",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:7620",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:7617",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7515",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7515;412:9065",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "2",
+      "canvasId": "831:1260",
+      "artNodeIds": [
+        "604:6594"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:6604",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6605",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "907:1291",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6597",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "632:7488",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I632:7488;412:9061",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "781:4782",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "3",
+      "canvasId": "831:1249",
+      "artNodeIds": [
+        "604:6564",
+        "604:6580",
+        "604:6590"
+      ],
+      "excluded": [
+        {
+          "figmaId": "678:6647",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "698:1522",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "604:6582",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6583",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6584",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7470",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7470;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "4",
+      "canvasId": "831:1250",
+      "artNodeIds": [
+        "604:4268",
+        "604:4270",
+        "801:1297"
+      ],
+      "excluded": [
+        {
+          "figmaId": "698:1523",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "604:5285",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5286",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7474",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7474;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "5",
+      "canvasId": "831:1262",
+      "artNodeIds": [
+        "604:6607"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:6610",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6611",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6613",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6614",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7478",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7478;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "6",
+      "canvasId": "831:1251",
+      "artNodeIds": [
+        "800:1447",
+        "604:5289",
+        "604:5290",
+        "604:5291"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:5304",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5306",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5307",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "678:6652",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "633:7542",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7542;412:9031",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "7",
+      "canvasId": "831:1252",
+      "artNodeIds": [
+        "604:6549",
+        "800:1448",
+        "604:6553"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:6554",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6556",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6557",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6558",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7538",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7538;412:9031",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "8",
+      "canvasId": "831:1269",
+      "artNodeIds": [
+        "604:5696",
+        "604:5701",
+        "604:5698"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:5702",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5704",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5705",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5706",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7534",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7534;412:9031",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "678:6654",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "9",
+      "canvasId": "831:1265",
+      "artNodeIds": [
+        "604:5714",
+        "604:5722"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:5716",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5717",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7530",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7530;412:9009",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "604:5726",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5727",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "678:6656",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "10",
+      "canvasId": "831:1253",
+      "artNodeIds": [
+        "604:6620",
+        "800:1449"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:6625",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6626",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6627",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6629",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6630",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6631",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7523",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7523;412:8991",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "11",
+      "canvasId": "831:1255",
+      "artNodeIds": [
+        "604:5577"
+      ],
+      "excluded": [
+        {
+          "figmaId": "698:1524",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "604:5604",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5605",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5602",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "678:6661",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "12",
+      "canvasId": "831:1256",
+      "artNodeIds": [
+        "604:6641",
+        "800:1446",
+        "604:7507"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:7508",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:7509",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7546",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7546;412:9017",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "702:9583",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "13",
+      "canvasId": "831:1266",
+      "artNodeIds": [
+        "604:6534",
+        "800:1441",
+        "604:6536"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:6538",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6539",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6546",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6547",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6544",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7498",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7498;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "14",
+      "canvasId": "986:1986",
+      "artNodeIds": [
+        "988:2222"
+      ],
+      "excluded": [
+        {
+          "figmaId": "986:2019",
+          "reason": "Text"
+        },
+        {
+          "figmaId": "986:2021",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "986:2022",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "986:2023",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "986:2027",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I986:2027;412:9069",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "15",
+      "canvasId": "831:1259",
+      "artNodeIds": [
+        "604:5730",
+        "604:5731"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:6502",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6509",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6510",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6511",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7494",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7494;412:9061",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "678:6660",
+          "reason": "TEXT"
+        }
+      ]
+    },
+    {
+      "variant": "16",
+      "canvasId": "831:1263",
+      "artNodeIds": [
+        "604:5320"
+      ],
+      "excluded": [
+        {
+          "figmaId": "698:1527",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "604:5322",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5321",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7519",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7519;412:9065",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "17",
+      "canvasId": "831:1264",
+      "artNodeIds": [
+        "604:5309",
+        "604:5312"
+      ],
+      "excluded": [
+        {
+          "figmaId": "604:5313",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5314",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7482",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7482;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "18",
+      "canvasId": "831:1267",
+      "artNodeIds": [
+        "604:5611"
+      ],
+      "excluded": [
+        {
+          "figmaId": "698:1526",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "604:5686",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5687",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5684",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7486",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7486;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "19",
+      "canvasId": "831:1261",
+      "artNodeIds": [
+        "604:6513",
+        "604:6514"
+      ],
+      "excluded": [
+        {
+          "figmaId": "633:7621",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7621;412:9017",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "604:6520",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6521",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6522",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:6530",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "702:9598",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "20",
+      "canvasId": "831:1274",
+      "artNodeIds": [
+        "800:1281",
+        "625:7486"
+      ],
+      "excluded": [
+        {
+          "figmaId": "633:7601",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7601;412:9043",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "625:7491",
+          "reason": "Text"
+        },
+        {
+          "figmaId": "625:7492",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "702:9595",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "21",
+      "canvasId": "831:1270",
+      "artNodeIds": [
+        "625:7473",
+        "625:7474"
+      ],
+      "excluded": [
+        {
+          "figmaId": "698:1528",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "625:7463",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7628",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7628;412:9024",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "22",
+      "canvasId": "831:1257",
+      "artNodeIds": [
+        "666:6631",
+        "666:6638"
+      ],
+      "excluded": [
+        {
+          "figmaId": "666:6651",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "666:6652",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "666:6653",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "666:6644",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "666:6649",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "702:9591",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "23",
+      "canvasId": "831:1271",
+      "artNodeIds": [
+        "604:9538",
+        "604:9539",
+        "800:1444"
+      ],
+      "excluded": [
+        {
+          "figmaId": "698:1529",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "632:7476",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "632:7477",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "632:7474",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7641",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7641;412:9065",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "24",
+      "canvasId": "831:1268",
+      "artNodeIds": [
+        "604:7650",
+        "604:7653"
+      ],
+      "excluded": [
+        {
+          "figmaId": "665:6625",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "665:6627",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "665:6628",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:7654",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "702:9589",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "25",
+      "canvasId": "831:1273",
+      "artNodeIds": [
+        "604:7693",
+        "801:1298"
+      ],
+      "excluded": [
+        {
+          "figmaId": "666:6661",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "666:6662",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "700:5168",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I700:5168;412:9043",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "26",
+      "canvasId": "831:1254",
+      "artNodeIds": [
+        "717:1011"
+      ],
+      "excluded": [
+        {
+          "figmaId": "717:1077",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "717:1067",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I717:1067;412:8991",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "717:1068",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "717:1066",
+          "reason": "TEXT"
+        }
+      ]
+    },
+    {
+      "variant": "27",
+      "canvasId": "867:1497",
+      "artNodeIds": [
+        "887:1364",
+        "887:1366",
+        "867:1501"
+      ],
+      "excluded": [
+        {
+          "figmaId": "867:1503",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I867:1503;412:9017",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "867:1505",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "867:1506",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "867:1507",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "867:1509",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "867:1510",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "28",
+      "canvasId": "831:1258",
+      "artNodeIds": [
+        "800:1443",
+        "604:5329"
+      ],
+      "excluded": [
+        {
+          "figmaId": "698:1525",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "604:5570",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "604:5571",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "633:7490",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I633:7490;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "29",
+      "canvasId": "988:2198",
+      "artNodeIds": [
+        "988:2199",
+        "988:2215"
+      ],
+      "excluded": [
+        {
+          "figmaId": "988:2206",
+          "reason": "Left Side"
+        },
+        {
+          "figmaId": "988:2208",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "988:2209",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "988:2210",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "988:2211",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I988:2211;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    },
+    {
+      "variant": "30",
+      "canvasId": "1045:8476",
+      "artNodeIds": [
+        "1045:8477",
+        "1045:8478",
+        "1045:9019",
+        "1045:9023",
+        "1045:9027"
+      ],
+      "excluded": [
+        {
+          "figmaId": "1045:9028",
+          "reason": "LEft Side"
+        },
+        {
+          "figmaId": "1045:9032",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "1045:9034",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "1045:9035",
+          "reason": "TEXT"
+        },
+        {
+          "figmaId": "1046:5546",
+          "reason": "Logo"
+        },
+        {
+          "figmaId": "I1046:5546;412:9061",
+          "reason": "Logo"
+        }
+      ]
+    }
+  ]
+}

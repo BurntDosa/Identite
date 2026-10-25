@@ -1,0 +1,11 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+.swiftpm/
+
+IDHolder.xcodeproj/
+.build/
+# Figma source API/download cache and temporary sampling intermediates.
+build/figma/
