@@ -21,7 +21,8 @@ text="Hi there,
 
 You are invited to test Identité, an app that keeps your Indian IDs and bank cards as text you can copy, on iPhone and Mac.
 
-Install TestFlight from the App Store, then open this link on your iPhone or Mac: $testflight
+1. Get TestFlight: https://apps.apple.com/app/testflight/id899247664
+2. Join the Identité Beta on your iPhone or Mac: $testflight
 
 Your IDs stay on your devices and your private iCloud. I cannot see any of it.
 
