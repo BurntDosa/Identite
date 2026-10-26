@@ -14,7 +14,7 @@ settings:
   base:
     SWIFT_VERSION: '6.0'
     MARKETING_VERSION: '1.0'
-    CURRENT_PROJECT_VERSION: '7'
+    CURRENT_PROJECT_VERSION: '9'
     # No App Intents are implemented, so there is no metadata to extract.
     LM_SKIP_METADATA_EXTRACTION: YES
     DEVELOPMENT_TEAM: 7D3WWB7VH9
@@ -94,6 +94,8 @@ targets:
         INFOPLIST_KEY_CFBundleDisplayName: Identité
         INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.productivity
         INFOPLIST_KEY_ITSAppUsesNonExemptEncryption: NO
+        # required for the notarized Developer ID download; no runtime exceptions are needed
+        ENABLE_HARDENED_RUNTIME: YES
     entitlements:
       path: App/macOS/IDHolder.entitlements
       properties:

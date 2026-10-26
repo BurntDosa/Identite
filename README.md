@@ -52,8 +52,8 @@ The same IDs in a window and in the menu bar. Both lock after five minutes away,
 
 | Platform | How |
 | --- | --- |
-| iPhone | TestFlight |
-| Mac | TestFlight, or the notarized app from [Releases](../../releases) |
+| iPhone | [TestFlight](https://testflight.apple.com/join/BfXC6gb1) |
+| Mac | [TestFlight](https://testflight.apple.com/join/BfXC6gb1), or the notarized app from [Releases](../../releases) |
 
 ## Supported IDs
 
